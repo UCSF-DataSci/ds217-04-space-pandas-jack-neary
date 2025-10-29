@@ -7,7 +7,6 @@ P00017,C0337,Home & Garden,Garden Tools,3.0,234.02,2024-11-04,NY,Express
 P00020,C0132,Home & Garden,Basketball,3.0,328.9,2024-07-28,CA,Standard
 P00025,C0346,Clothing,Jeans,3.0,168.09,2024-02-03,NY,Express
 P00027,C0056,Clothing,Hat,4.0,15.8,2024-06-29,CA,Express
-P00030,C0477,Electronics,Headphones,4.0,173.13,2024-08-17,CA,
 P00033,C0185,Electronics,Lamp,5.0,37.16,2024-12-26,NY,Express
 P00038,C0181,Books,Headphones,3.0,27.59,2024-03-13,CA,Standard
 P00040,C0219,Clothing,Novel,5.0,443.72,2024-06-29,NY,Express
@@ -43,7 +42,6 @@ P00157,C0221,Clothing,Shoes,4.0,48.73,2024-08-16,NY,Standard
 P00158,C0364,Clothing,Textbook,4.0,15.95,2024-06-18,CA,Express
 P00160,C0372,Sports,Dumbbells,5.0,416.12,2024-12-07,CA,Standard
 P00165,C0131,Clothing,Dumbbells,2.0,138.24,2024-06-07,NY,Standard
-P00171,C0021,Sports,T-Shirt,2.0,432.04,2024-06-06,CA,
 P00173,C0272,Home & Garden,Smartphone,3.0,209.83,2024-01-15,NY,Standard
 P00179,C0116,Sports,Monitor,4.0,21.91,2024-10-11,CA,Standard
 P00180,C0449,Sports,Jeans,3.0,241.21,2024-11-15,NY,Standard
@@ -60,7 +58,6 @@ P00212,C0235,Home & Garden,Cushion,5.0,80.69,2024-07-28,NY,Express
 P00221,C0438,Books,Rug,2.0,300.39,2024-12-17,NY,Standard
 P00224,C0269,Books,Tablet,5.0,364.05,2024-12-11,CA,Express
 P00227,C0193,Clothing,Cushion,3.0,169.91,2024-09-04,NY,Overnight
-P00240,C0136,Clothing,Textbook,2.0,284.88,2024-10-05,NY,
 P00244,C0038,Sports,Laptop,3.0,337.31,2024-08-24,NY,Standard
 P00253,C0371,Home & Garden,Monitor,2.0,244.1,2024-01-09,NY,Standard
 P00254,C0409,Sports,Cookbook,4.0,342.4,2024-03-15,NY,Express
@@ -69,7 +66,6 @@ P00272,C0469,Books,Headphones,3.0,77.27,2024-08-28,NY,Express
 P00277,C0113,Electronics,Jacket,2.0,257.67,2024-07-30,CA,Overnight
 P00281,C0484,Electronics,Monitor,5.0,420.47,2024-06-15,NY,Standard
 P00284,C0319,Home & Garden,Cookbook,4.0,26.43,2024-09-06,CA,Standard
-P00285,C0021,Books,Tablet,2.0,451.12,2024-11-18,NY,
 P00286,C0198,Home & Garden,Novel,5.0,53.55,2024-02-13,NY,Standard
 P00293,C0055,Books,Garden Tools,4.0,371.46,2024-07-17,NY,Express
 P00294,C0260,Sports,Cookbook,3.0,307.78,2024-10-18,CA,Express
@@ -91,7 +87,6 @@ P00369,C0064,Books,Lamp,3.0,421.06,2024-05-13,NY,Overnight
 P00370,C0484,Electronics,Garden Tools,3.0,13.34,2024-01-16,CA,Express
 P00371,C0006,Clothing,Running Shoes,3.0,17.1,2024-02-14,NY,Overnight
 P00372,C0263,Electronics,Garden Tools,2.0,135.43,2024-04-24,CA,Overnight
-P00377,C0183,Clothing,Garden Tools,5.0,56.24,2024-05-15,NY,
 P00378,C0395,Electronics,Shoes,5.0,365.74,2024-02-14,CA,Standard
 P00380,C0470,Books,Tablet,2.0,438.44,2024-02-07,CA,Express
 P00381,C0427,Sports,T-Shirt,3.0,105.77,2024-06-07,CA,Standard
@@ -187,14 +182,12 @@ P00721,C0436,Sports,Tennis Racket,2.0,346.25,2024-05-13,CA,Overnight
 P00725,C0142,Sports,Rug,2.0,338.33,2024-01-13,NY,Standard
 P00730,C0257,Electronics,Basketball,4.0,143.15,2024-12-08,NY,Express
 P00734,C0406,Sports,Novel,5.0,477.76,2024-07-26,CA,Standard
-P00736,C0280,Clothing,Yoga Mat,3.0,432.65,2024-09-03,NY,
 P00737,C0409,Books,Headphones,5.0,317.79,2024-01-19,NY,Express
 P00739,C0076,Books,Smartphone,4.0,56.49,2024-06-06,NY,Overnight
 P00740,C0491,Sports,Cookbook,5.0,214.53,2024-05-17,CA,Express
 P00741,C0484,Home & Garden,Monitor,3.0,212.81,2024-12-26,CA,Express
 P00743,C0282,Clothing,Hat,3.0,374.67,2024-06-03,CA,Overnight
 P00748,C0482,Sports,Tablet,3.0,420.96,2024-06-15,CA,Standard
-P00749,C0260,Home & Garden,Hat,4.0,240.68,2024-12-09,NY,
 P00750,C0402,Electronics,Garden Tools,5.0,363.75,2024-12-08,NY,Express
 P00759,C0445,Clothing,Lamp,5.0,458.91,2024-09-17,CA,Standard
 P00762,C0002,Books,Running Shoes,3.0,321.96,2024-06-23,NY,Express
@@ -221,11 +214,9 @@ P00846,C0230,Books,Rug,2.0,471.28,2024-12-15,NY,Express
 P00848,C0166,Home & Garden,Dumbbells,5.0,176.49,2024-11-27,CA,Overnight
 P00850,C0073,Books,Dumbbells,4.0,284.06,2024-11-12,NY,Express
 P00852,C0006,Electronics,Jacket,2.0,490.83,2024-04-04,CA,Standard
-P00853,C0123,Electronics,Jeans,5.0,215.55,2024-10-18,NY,
 P00854,C0011,Books,Rug,3.0,328.23,2024-02-05,CA,Overnight
 P00855,C0488,Electronics,Basketball,3.0,80.09,2024-04-01,CA,Express
 P00856,C0295,Sports,Yoga Mat,4.0,423.97,2024-09-08,NY,Overnight
-P00859,C0274,Books,Jeans,2.0,172.38,2024-11-09,NY,
 P00862,C0224,Clothing,Tablet,5.0,291.26,2024-11-25,NY,Express
 P00865,C0472,Clothing,T-Shirt,4.0,12.24,2024-03-03,CA,Standard
 P00867,C0031,Sports,Headphones,3.0,451.17,2024-01-23,CA,Standard
@@ -242,7 +233,6 @@ P00904,C0444,Books,Rug,3.0,296.12,2024-04-06,NY,Overnight
 P00908,C0064,Home & Garden,Hat,4.0,289.08,2024-07-25,NY,Overnight
 P00912,C0403,Books,Basketball,2.0,225.8,2024-10-01,CA,Express
 P00913,C0295,Electronics,Tablet,4.0,19.71,2024-12-14,CA,Overnight
-P00918,C0042,Sports,Yoga Mat,3.0,363.67,2024-07-28,CA,
 P00920,C0053,Books,Jeans,4.0,417.31,2024-02-28,NY,Express
 P00925,C0096,Electronics,Smartphone,3.0,367.42,2024-12-23,CA,Overnight
 P00931,C0452,Books,Tablet,5.0,351.61,2024-07-30,CA,Overnight
@@ -261,7 +251,6 @@ P00990,C0046,Sports,Rug,5.0,497.78,2024-11-23,NY,Overnight
 P00993,C0401,Sports,Basketball,5.0,49.93,2024-01-18,CA,Overnight
 P00994,C0329,Home & Garden,Dumbbells,3.0,151.97,2024-05-10,NY,Express
 P00995,C0022,Electronics,Novel,3.0,458.21,2024-05-16,CA,Standard
-P00997,C0082,Home & Garden,Monitor,2.0,331.64,2024-12-30,CA,
 P00998,C0376,Clothing,Cookbook,5.0,472.51,2024-04-18,NY,Overnight
 P01008,C0215,Clothing,Laptop,4.0,275.66,2024-07-19,NY,Standard
 P01011,C0099,Sports,Novel,5.0,126.62,2024-04-02,NY,Express
@@ -342,7 +331,6 @@ P01348,C0230,Clothing,T-Shirt,3.0,136.77,2024-01-14,NY,Express
 P01350,C0128,Home & Garden,Laptop,5.0,227.7,2024-03-04,NY,Standard
 P01351,C0429,Books,Jacket,4.0,371.71,2024-03-29,CA,Express
 P01354,C0012,Sports,Laptop,5.0,99.26,2024-05-06,CA,Overnight
-P01356,C0111,Sports,Headphones,5.0,457.06,2024-09-24,NY,
 P01357,C0394,Electronics,Tablet,2.0,324.21,2024-12-07,CA,Standard
 P01359,C0479,Clothing,Smartphone,5.0,276.76,2024-05-22,NY,Express
 P01360,C0346,Sports,Jacket,3.0,118.26,2024-11-26,NY,Overnight
@@ -352,7 +340,6 @@ P01369,C0448,Home & Garden,Smartphone,4.0,96.89,2024-09-05,NY,Overnight
 P01370,C0062,Books,T-Shirt,3.0,333.7,2024-05-28,NY,Express
 P01373,C0384,Home & Garden,Basketball,2.0,419.87,2024-08-04,NY,Overnight
 P01376,C0124,Books,Rug,3.0,216.06,2024-05-20,CA,Overnight
-P01385,C0412,Sports,Novel,3.0,351.12,2024-12-10,CA,
 P01387,C0360,Sports,Laptop,3.0,165.98,2024-09-01,NY,Standard
 P01391,C0239,Home & Garden,Dumbbells,3.0,24.22,2024-05-29,NY,Overnight
 P01393,C0112,Clothing,Laptop,4.0,414.14,2024-10-08,NY,Standard
@@ -413,7 +400,6 @@ P01598,C0191,Clothing,Cookbook,5.0,181.76,2024-02-22,CA,Express
 P01601,C0027,Books,Running Shoes,3.0,162.36,2024-07-22,CA,Overnight
 P01602,C0457,Home & Garden,Cookbook,5.0,389.27,2024-06-17,CA,Overnight
 P01612,C0208,Electronics,Jacket,4.0,246.08,2024-07-17,CA,Overnight
-P01615,C0053,Clothing,Novel,2.0,361.34,2024-06-04,NY,
 P01616,C0005,Sports,Novel,4.0,301.43,2024-01-27,NY,Overnight
 P01622,C0155,Books,Running Shoes,2.0,210.91,2024-10-09,NY,Standard
 P01625,C0207,Home & Garden,Lamp,4.0,179.81,2024-01-22,NY,Express
@@ -516,7 +502,6 @@ P01982,C0243,Home & Garden,Dumbbells,2.0,389.14,2024-01-28,NY,Standard
 P01983,C0101,Sports,Headphones,5.0,188.88,2024-09-21,CA,Overnight
 P01987,C0234,Clothing,Dumbbells,2.0,482.14,2024-02-08,NY,Express
 P01989,C0364,Home & Garden,Cookbook,3.0,384.97,2024-03-27,CA,Overnight
-P01991,C0189,Home & Garden,Jacket,3.0,395.38,2024-06-08,CA,
 P01996,C0403,Clothing,Lamp,2.0,326.96,2024-09-02,CA,Standard
 P02003,C0476,Home & Garden,Cookbook,3.0,270.67,2024-02-15,CA,Express
 P02006,C0443,Sports,Garden Tools,5.0,340.06,2024-01-09,CA,Standard
@@ -581,7 +566,6 @@ P02237,C0017,Sports,Magazine,3.0,37.84,2024-05-20,CA,Express
 P02239,C0497,Home & Garden,Jeans,4.0,329.42,2024-06-21,CA,Express
 P02240,C0312,Books,Shoes,5.0,183.79,2024-06-17,CA,Standard
 P02247,C0106,Sports,Novel,5.0,434.7,2024-10-28,CA,Overnight
-P02258,C0301,Clothing,Cookbook,2.0,398.33,2024-02-24,NY,
 P02262,C0263,Books,Tennis Racket,3.0,53.87,2024-03-31,CA,Express
 P02266,C0424,Sports,Hat,3.0,30.69,2024-03-11,CA,Overnight
 P02269,C0109,Clothing,Cushion,4.0,454.11,2024-08-09,CA,Standard
@@ -625,7 +609,6 @@ P02400,C0313,Sports,Dumbbells,4.0,303.2,2024-01-15,NY,Overnight
 P02401,C0007,Books,Hat,2.0,147.5,2024-03-11,NY,Overnight
 P02402,C0239,Sports,Cushion,3.0,49.15,2024-10-28,CA,Overnight
 P02403,C0382,Home & Garden,Laptop,3.0,388.7,2024-10-15,NY,Standard
-P02405,C0357,Electronics,Novel,5.0,369.6,2024-10-29,NY,
 P02408,C0366,Clothing,Cookbook,3.0,87.11,2024-03-28,NY,Standard
 P02410,C0027,Home & Garden,Headphones,4.0,322.86,2024-08-13,NY,Standard
 P02413,C0133,Home & Garden,Hat,3.0,88.98,2024-09-07,CA,Standard
@@ -694,7 +677,6 @@ P02693,C0315,Electronics,Monitor,4.0,323.33,2024-05-19,NY,Standard
 P02695,C0346,Sports,Garden Tools,2.0,398.48,2024-09-17,CA,Overnight
 P02696,C0011,Clothing,Yoga Mat,5.0,27.6,2024-08-13,NY,Express
 P02698,C0065,Electronics,Textbook,2.0,311.64,2024-04-09,CA,Standard
-P02703,C0099,Sports,Magazine,2.0,72.21,2024-04-06,CA,
 P02704,C0211,Sports,Rug,2.0,71.85,2024-07-16,CA,Overnight
 P02707,C0442,Electronics,Jeans,3.0,195.06,2024-12-15,CA,Express
 P02714,C0145,Sports,Laptop,3.0,74.01,2024-12-13,CA,Overnight
@@ -711,7 +693,6 @@ P02738,C0068,Home & Garden,Textbook,5.0,53.99,2024-05-05,CA,Overnight
 P02743,C0050,Clothing,Cushion,2.0,325.94,2024-09-28,NY,Express
 P02744,C0164,Home & Garden,Tennis Racket,2.0,412.68,2024-12-01,CA,Overnight
 P02747,C0486,Electronics,Shoes,2.0,284.26,2024-01-26,NY,Express
-P02750,C0134,Books,Tennis Racket,2.0,397.95,2024-02-17,NY,
 P02752,C0474,Sports,Shoes,5.0,219.06,2024-12-20,NY,Overnight
 P02756,C0009,Clothing,Monitor,2.0,349.73,2024-09-15,CA,Overnight
 P02762,C0490,Electronics,Jeans,2.0,255.03,2024-01-21,NY,Overnight
@@ -754,7 +735,6 @@ P02885,C0266,Electronics,Headphones,3.0,369.26,2024-01-30,CA,Express
 P02888,C0137,Clothing,Plant Pot,5.0,188.97,2024-08-01,CA,Standard
 P02893,C0394,Clothing,Basketball,3.0,271.09,2024-08-11,NY,Standard
 P02901,C0308,Clothing,Yoga Mat,2.0,121.85,2024-10-27,NY,Overnight
-P02903,C0451,Sports,Garden Tools,3.0,391.04,2024-10-07,NY,
 P02909,C0138,Electronics,Garden Tools,4.0,158.79,2024-09-22,NY,Express
 P02915,C0113,Books,Smartphone,3.0,239.78,2024-12-20,NY,Overnight
 P02922,C0348,Clothing,Plant Pot,5.0,314.41,2024-01-30,NY,Express
@@ -768,7 +748,6 @@ P02951,C0164,Clothing,T-Shirt,3.0,58.57,2024-04-06,CA,Express
 P02957,C0103,Electronics,Hat,2.0,139.55,2024-05-31,NY,Standard
 P02962,C0056,Clothing,Monitor,5.0,183.15,2024-05-29,CA,Overnight
 P02970,C0017,Home & Garden,Tennis Racket,3.0,31.44,2024-04-15,CA,Express
-P02972,C0060,Clothing,Garden Tools,4.0,288.61,2024-07-21,NY,
 P02975,C0025,Electronics,Cookbook,4.0,54.24,2024-02-28,NY,Express
 P02977,C0343,Electronics,Textbook,5.0,117.33,2024-04-17,NY,Express
 P02984,C0162,Home & Garden,Jeans,4.0,404.33,2024-02-23,NY,Standard
@@ -808,8 +787,6 @@ P03122,C0002,Clothing,Tennis Racket,4.0,492.28,2024-07-14,NY,Overnight
 P03123,C0209,Electronics,Rug,4.0,338.14,2024-03-29,CA,Overnight
 P03127,C0397,Books,Headphones,4.0,14.02,2024-03-02,CA,Express
 P03129,C0091,Home & Garden,Monitor,2.0,98.03,2024-03-01,CA,Overnight
-P03130,C0351,Sports,T-Shirt,5.0,470.03,2024-08-05,CA,
-P03131,C0295,Books,Headphones,2.0,387.12,2024-01-12,CA,
 P03132,C0234,Clothing,Garden Tools,4.0,11.78,2024-02-22,CA,Express
 P03134,C0312,Books,Basketball,2.0,386.26,2024-04-09,NY,Express
 P03139,C0240,Electronics,Jacket,2.0,392.63,2024-09-15,NY,Express
@@ -867,7 +844,6 @@ P03373,C0209,Sports,Jacket,2.0,405.17,2024-08-02,NY,Express
 P03381,C0103,Sports,Monitor,2.0,260.6,2024-12-09,CA,Overnight
 P03398,C0491,Home & Garden,Rug,5.0,69.72,2024-09-13,CA,Overnight
 P03400,C0307,Books,Smartphone,5.0,350.32,2024-08-15,CA,Standard
-P03402,C0062,Home & Garden,Shoes,4.0,142.79,2024-12-18,CA,
 P03421,C0311,Home & Garden,Garden Tools,4.0,155.98,2024-12-18,CA,Overnight
 P03429,C0238,Books,T-Shirt,2.0,423.05,2024-11-04,CA,Standard
 P03436,C0126,Books,Jeans,3.0,348.63,2024-07-01,CA,Standard
@@ -904,7 +880,6 @@ P03551,C0050,Sports,Lamp,2.0,228.38,2024-10-27,CA,Standard
 P03555,C0485,Clothing,Jeans,4.0,156.28,2024-12-12,CA,Express
 P03559,C0275,Electronics,Tablet,4.0,11.15,2024-02-09,CA,Overnight
 P03560,C0075,Electronics,Smartphone,4.0,213.13,2024-02-15,CA,Express
-P03561,C0211,Electronics,Monitor,4.0,462.77,2024-03-21,CA,
 P03562,C0269,Sports,Tablet,5.0,332.36,2024-11-23,NY,Overnight
 P03563,C0299,Sports,T-Shirt,4.0,26.1,2024-05-17,NY,Standard
 P03571,C0250,Electronics,Textbook,4.0,305.09,2024-09-15,NY,Standard
@@ -928,10 +903,8 @@ P03655,C0062,Electronics,Magazine,5.0,97.34,2024-12-27,NY,Standard
 P03661,C0282,Home & Garden,Headphones,2.0,409.1,2024-07-27,CA,Standard
 P03669,C0206,Electronics,Dumbbells,5.0,226.63,2024-03-19,CA,Overnight
 P03672,C0098,Clothing,Yoga Mat,3.0,291.93,2024-03-28,CA,Overnight
-P03676,C0072,Electronics,Garden Tools,5.0,249.08,2024-03-01,CA,
 P03678,C0467,Home & Garden,Plant Pot,2.0,411.09,2024-05-01,NY,Overnight
 P03679,C0435,Home & Garden,Smartphone,2.0,17.04,2024-08-25,CA,Express
-P03682,C0253,Clothing,Jeans,3.0,47.59,2024-05-05,NY,
 P03683,C0169,Clothing,Headphones,2.0,331.79,2024-08-03,NY,Express
 P03688,C0490,Electronics,Garden Tools,4.0,252.31,2024-04-05,CA,Standard
 P03690,C0164,Clothing,Headphones,2.0,57.91,2024-05-19,NY,Standard
@@ -944,7 +917,6 @@ P03721,C0014,Clothing,T-Shirt,5.0,232.41,2024-03-21,NY,Express
 P03723,C0407,Home & Garden,Yoga Mat,5.0,388.54,2024-03-13,NY,Overnight
 P03724,C0159,Electronics,Shoes,5.0,379.3,2024-08-15,CA,Standard
 P03728,C0322,Electronics,Laptop,3.0,26.89,2024-07-29,NY,Express
-P03730,C0474,Sports,Jeans,5.0,166.41,2024-07-24,CA,
 P03732,C0408,Books,Rug,4.0,147.11,2024-12-01,CA,Standard
 P03736,C0190,Books,Hat,5.0,283.9,2024-04-05,NY,Overnight
 P03749,C0222,Home & Garden,Tennis Racket,3.0,368.44,2024-06-17,NY,Overnight
@@ -992,7 +964,6 @@ P03897,C0085,Clothing,Cushion,3.0,25.98,2024-12-04,NY,Overnight
 P03904,C0013,Electronics,Rug,5.0,122.49,2024-12-18,NY,Standard
 P03906,C0307,Sports,Monitor,4.0,334.35,2024-11-07,NY,Overnight
 P03909,C0251,Home & Garden,Novel,5.0,77.96,2024-07-18,NY,Standard
-P03914,C0374,Electronics,Plant Pot,3.0,174.9,2024-02-07,NY,
 P03923,C0377,Sports,Garden Tools,4.0,53.52,2024-06-01,CA,Overnight
 P03924,C0445,Electronics,T-Shirt,5.0,318.78,2024-06-05,CA,Overnight
 P03926,C0250,Books,Smartphone,5.0,141.59,2024-07-25,NY,Standard
@@ -1099,7 +1070,6 @@ P04404,C0394,Books,Smartphone,4.0,46.48,2024-04-29,NY,Standard
 P04405,C0298,Books,T-Shirt,3.0,421.38,2024-05-25,CA,Overnight
 P04406,C0180,Electronics,Hat,2.0,94.06,2024-08-07,CA,Overnight
 P04407,C0417,Sports,Running Shoes,3.0,475.66,2024-05-31,CA,Standard
-P04408,C0056,Electronics,Cushion,5.0,499.9,2024-09-05,NY,
 P04412,C0167,Clothing,Monitor,3.0,413.42,2024-02-10,NY,Standard
 P04416,C0405,Home & Garden,Lamp,3.0,73.99,2024-05-02,CA,Overnight
 P04417,C0064,Sports,Cushion,4.0,210.01,2024-10-03,NY,Express
@@ -1114,7 +1084,6 @@ P04450,C0207,Clothing,Laptop,5.0,497.94,2024-07-11,NY,Express
 P04451,C0250,Clothing,Headphones,4.0,322.14,2024-12-30,CA,Standard
 P04458,C0048,Electronics,Monitor,5.0,194.72,2024-10-06,NY,Express
 P04464,C0300,Sports,Textbook,5.0,375.39,2024-11-11,CA,Overnight
-P04465,C0284,Sports,Headphones,5.0,475.5,2024-04-06,CA,
 P04477,C0459,Sports,Laptop,3.0,353.65,2024-03-19,CA,Express
 P04481,C0490,Clothing,Tablet,2.0,143.51,2024-06-10,NY,Standard
 P04484,C0180,Clothing,Yoga Mat,5.0,232.57,2024-04-29,CA,Express
@@ -1138,13 +1107,11 @@ P04561,C0485,Books,Monitor,5.0,162.19,2024-09-14,CA,Overnight
 P04562,C0044,Home & Garden,Lamp,3.0,248.32,2024-05-04,NY,Express
 P04564,C0384,Home & Garden,Lamp,2.0,199.96,2024-11-18,CA,Express
 P04580,C0136,Home & Garden,Tablet,4.0,39.42,2024-08-31,NY,Overnight
-P04581,C0118,Home & Garden,Tennis Racket,5.0,268.39,2024-05-26,CA,
 P04583,C0080,Sports,Headphones,3.0,275.9,2024-02-24,NY,Standard
 P04586,C0164,Home & Garden,Rug,3.0,137.81,2024-06-18,CA,Express
 P04587,C0044,Electronics,Cushion,2.0,482.87,2024-02-26,CA,Express
 P04588,C0293,Electronics,Lamp,4.0,417.54,2024-05-05,NY,Overnight
 P04589,C0318,Electronics,T-Shirt,4.0,10.84,2024-10-20,CA,Standard
-P04590,C0021,Sports,Magazine,4.0,180.21,2024-03-16,CA,
 P04594,C0414,Electronics,Textbook,5.0,493.74,2024-06-09,NY,Overnight
 P04603,C0449,Books,Running Shoes,2.0,283.39,2024-10-13,NY,Express
 P04609,C0344,Electronics,Dumbbells,5.0,276.83,2024-11-11,NY,Overnight
@@ -1173,7 +1140,6 @@ P04682,C0335,Home & Garden,Laptop,5.0,396.73,2024-04-01,CA,Express
 P04683,C0141,Sports,Magazine,4.0,247.87,2024-01-17,CA,Express
 P04684,C0170,Home & Garden,Shoes,4.0,336.41,2024-01-14,NY,Overnight
 P04685,C0087,Clothing,Dumbbells,4.0,96.71,2024-12-19,NY,Overnight
-P04687,C0064,Sports,Yoga Mat,5.0,169.96,2024-09-25,CA,
 P04688,C0007,Electronics,Shoes,2.0,160.68,2024-11-01,CA,Standard
 P04689,C0031,Clothing,Running Shoes,2.0,65.71,2024-05-28,NY,Standard
 P04690,C0141,Books,Textbook,4.0,490.63,2024-02-20,CA,Standard
@@ -1211,9 +1177,7 @@ P04805,C0445,Electronics,Headphones,5.0,419.98,2024-06-20,NY,Overnight
 P04808,C0300,Electronics,Monitor,2.0,78.22,2024-05-26,CA,Standard
 P04811,C0181,Sports,Garden Tools,3.0,476.09,2024-08-01,CA,Express
 P04818,C0485,Clothing,Cookbook,4.0,220.27,2024-10-20,NY,Standard
-P04829,C0273,Books,Rug,3.0,319.06,2024-10-22,NY,
 P04832,C0084,Books,Novel,4.0,245.04,2024-11-13,CA,Overnight
-P04833,C0483,Electronics,T-Shirt,4.0,268.67,2024-04-13,NY,
 P04834,C0108,Sports,Monitor,5.0,277.92,2024-11-17,NY,Overnight
 P04836,C0041,Clothing,Headphones,5.0,15.67,2024-07-26,CA,Express
 P04837,C0137,Sports,Plant Pot,3.0,474.96,2024-05-20,CA,Express
@@ -1239,7 +1203,6 @@ P04886,C0246,Sports,Hat,5.0,244.43,2024-10-01,CA,Overnight
 P04890,C0379,Books,Headphones,3.0,255.37,2024-12-05,NY,Express
 P04895,C0210,Clothing,Hat,5.0,167.04,2024-06-22,NY,Standard
 P04899,C0432,Electronics,Headphones,4.0,233.83,2024-08-05,NY,Express
-P04908,C0482,Home & Garden,Cushion,2.0,170.21,2024-10-13,CA,
 P04909,C0335,Electronics,Smartphone,2.0,480.17,2024-10-29,NY,Overnight
 P04914,C0273,Sports,Plant Pot,4.0,211.15,2024-04-27,CA,Overnight
 P04918,C0458,Clothing,Hat,4.0,143.1,2024-03-09,NY,Overnight
@@ -1286,19 +1249,16 @@ P05120,C0365,Books,Dumbbells,2.0,276.72,2024-11-06,CA,Standard
 P05136,C0347,Home & Garden,Cookbook,2.0,194.27,2024-03-16,NY,Overnight
 P05137,C0302,Clothing,Yoga Mat,4.0,342.26,2024-07-16,CA,Standard
 P05138,C0150,Electronics,Cookbook,5.0,367.97,2024-12-22,CA,Standard
-P05141,C0391,Books,Lamp,3.0,21.54,2024-01-01,CA,
 P05153,C0318,Electronics,Rug,2.0,10.2,2024-01-13,NY,Standard
 P05157,C0017,Sports,Textbook,5.0,52.1,2024-08-10,CA,Standard
 P05158,C0409,Electronics,Cushion,2.0,17.13,2024-05-31,CA,Standard
 P05170,C0143,Clothing,Plant Pot,4.0,79.61,2024-12-23,NY,Standard
-P05171,C0366,Electronics,Garden Tools,2.0,25.46,2024-07-10,NY,
 P05172,C0118,Sports,Tennis Racket,4.0,79.23,2024-06-08,NY,Express
 P05176,C0323,Books,Basketball,5.0,332.3,2024-07-19,CA,Express
 P05181,C0147,Sports,Garden Tools,3.0,350.49,2024-08-20,CA,Standard
 P05189,C0376,Electronics,Cushion,4.0,14.24,2024-03-17,NY,Express
 P05197,C0387,Books,Plant Pot,4.0,99.62,2024-03-07,NY,Standard
 P05198,C0455,Clothing,Yoga Mat,4.0,490.84,2024-06-23,NY,Overnight
-P05199,C0021,Sports,Garden Tools,3.0,87.42,2024-02-12,CA,
 P05202,C0425,Sports,Garden Tools,3.0,234.51,2024-04-16,CA,Standard
 P05205,C0331,Home & Garden,Tablet,2.0,449.9,2024-11-24,NY,Standard
 P05216,C0237,Electronics,Textbook,4.0,35.81,2024-09-20,CA,Standard
@@ -1352,7 +1312,6 @@ P05456,C0060,Home & Garden,Plant Pot,3.0,446.98,2024-11-15,CA,Express
 P05457,C0053,Electronics,Hat,3.0,136.86,2024-06-12,NY,Overnight
 P05459,C0276,Clothing,Garden Tools,4.0,145.48,2024-03-13,NY,Overnight
 P05462,C0265,Electronics,Laptop,3.0,209.22,2024-05-09,NY,Express
-P05465,C0469,Clothing,Cushion,5.0,443.39,2024-05-28,NY,
 P05466,C0261,Home & Garden,Dumbbells,5.0,69.07,2024-04-12,NY,Standard
 P05467,C0500,Clothing,Basketball,2.0,298.79,2024-03-22,CA,Standard
 P05473,C0494,Clothing,Tennis Racket,5.0,36.57,2024-03-24,CA,Standard
@@ -1411,7 +1370,6 @@ P05676,C0098,Electronics,Tablet,4.0,236.49,2024-02-17,NY,Overnight
 P05679,C0124,Home & Garden,Textbook,2.0,207.03,2024-07-05,CA,Express
 P05685,C0290,Electronics,Dumbbells,3.0,366.31,2024-05-23,CA,Express
 P05689,C0283,Books,Lamp,2.0,138.88,2024-07-05,NY,Express
-P05694,C0309,Electronics,Dumbbells,3.0,265.33,2024-04-13,CA,
 P05696,C0250,Electronics,Lamp,2.0,13.37,2024-11-13,NY,Express
 P05697,C0500,Home & Garden,Smartphone,5.0,428.86,2024-08-14,CA,Express
 P05699,C0482,Books,Garden Tools,5.0,298.53,2024-07-06,CA,Express
@@ -1478,14 +1436,12 @@ P05901,C0186,Books,Textbook,4.0,234.4,2024-07-24,NY,Express
 P05904,C0444,Sports,Monitor,2.0,26.49,2024-07-12,NY,Standard
 P05910,C0307,Books,Headphones,3.0,313.48,2024-01-06,CA,Express
 P05917,C0242,Sports,Jeans,5.0,363.7,2024-01-18,NY,Standard
-P05922,C0061,Books,Basketball,3.0,152.7,2024-02-27,CA,
 P05923,C0047,Clothing,Jacket,3.0,69.57,2024-01-21,NY,Overnight
 P05928,C0104,Clothing,T-Shirt,5.0,375.41,2024-07-22,CA,Overnight
 P05935,C0486,Sports,Hat,4.0,280.4,2024-11-01,CA,Express
 P05936,C0489,Sports,Lamp,3.0,486.75,2024-07-25,CA,Standard
 P05942,C0373,Books,Jacket,4.0,378.6,2024-06-23,CA,Express
 P05944,C0019,Clothing,Smartphone,3.0,393.68,2024-11-02,NY,Standard
-P05961,C0081,Electronics,Textbook,3.0,21.23,2024-06-30,CA,
 P05963,C0269,Electronics,Running Shoes,2.0,59.73,2024-05-31,CA,Standard
 P05965,C0368,Electronics,Hat,4.0,475.77,2024-01-05,NY,Express
 P05966,C0389,Clothing,Lamp,4.0,428.69,2024-01-30,CA,Express
@@ -1528,7 +1484,6 @@ P06098,C0393,Electronics,Jeans,3.0,142.16,2024-06-24,CA,Overnight
 P06103,C0264,Clothing,Plant Pot,4.0,127.68,2024-12-13,NY,Express
 P06109,C0346,Electronics,Novel,5.0,169.64,2024-06-11,NY,Standard
 P06111,C0470,Sports,Lamp,2.0,200.45,2024-11-12,NY,Overnight
-P06112,C0208,Sports,Laptop,2.0,87.93,2024-04-07,NY,
 P06114,C0113,Electronics,Textbook,3.0,465.58,2024-12-01,NY,Overnight
 P06117,C0278,Electronics,Dumbbells,5.0,189.58,2024-03-04,CA,Express
 P06121,C0302,Sports,Cookbook,3.0,168.72,2024-06-06,CA,Standard
@@ -1606,11 +1561,9 @@ P06409,C0417,Sports,Tablet,5.0,226.76,2024-03-24,NY,Standard
 P06420,C0362,Electronics,Cookbook,4.0,250.28,2024-05-31,CA,Standard
 P06422,C0379,Sports,Rug,3.0,128.57,2024-11-29,CA,Overnight
 P06426,C0437,Sports,Magazine,5.0,454.62,2024-11-09,NY,Standard
-P06428,C0105,Electronics,Jeans,3.0,159.62,2024-02-20,CA,
 P06435,C0297,Home & Garden,Hat,4.0,211.53,2024-05-19,NY,Express
 P06436,C0346,Clothing,Plant Pot,2.0,445.03,2024-03-31,CA,Express
 P06438,C0395,Electronics,Laptop,3.0,270.79,2024-10-01,NY,Overnight
-P06441,C0046,Electronics,Cookbook,5.0,98.88,2024-10-06,NY,
 P06447,C0326,Electronics,Hat,4.0,345.86,2024-08-06,CA,Standard
 P06448,C0010,Home & Garden,Tablet,3.0,240.61,2024-02-26,NY,Overnight
 P06449,C0398,Electronics,Dumbbells,3.0,71.5,2024-07-18,NY,Overnight
@@ -1623,7 +1576,6 @@ P06460,C0079,Clothing,Yoga Mat,5.0,165.61,2024-05-02,CA,Overnight
 P06462,C0009,Books,Tablet,5.0,195.51,2024-05-23,NY,Express
 P06464,C0358,Books,Plant Pot,2.0,430.09,2024-09-11,NY,Express
 P06469,C0245,Home & Garden,Laptop,5.0,213.04,2024-02-10,NY,Standard
-P06470,C0083,Sports,Shoes,5.0,86.73,2024-01-27,CA,
 P06471,C0080,Sports,Yoga Mat,3.0,335.22,2024-01-28,NY,Overnight
 P06473,C0020,Electronics,Jacket,4.0,241.16,2024-08-21,NY,Standard
 P06474,C0023,Books,Yoga Mat,3.0,223.83,2024-03-10,CA,Overnight
@@ -1638,7 +1590,6 @@ P06519,C0138,Clothing,Plant Pot,2.0,273.61,2024-08-17,CA,Express
 P06520,C0260,Clothing,Cushion,2.0,261.54,2024-10-19,CA,Overnight
 P06521,C0417,Home & Garden,Dumbbells,4.0,50.78,2024-01-31,CA,Overnight
 P06522,C0193,Electronics,Cushion,3.0,275.62,2024-08-11,CA,Express
-P06525,C0419,Books,Monitor,2.0,204.71,2024-04-13,NY,
 P06526,C0388,Home & Garden,Cookbook,4.0,53.22,2024-05-12,NY,Overnight
 P06535,C0458,Clothing,Dumbbells,4.0,397.73,2024-02-23,CA,Overnight
 P06538,C0210,Clothing,Smartphone,4.0,166.18,2024-11-14,CA,Overnight
@@ -1649,7 +1600,6 @@ P06552,C0104,Clothing,Lamp,4.0,135.62,2024-08-08,NY,Express
 P06553,C0288,Electronics,Shoes,3.0,212.9,2024-01-01,NY,Overnight
 P06554,C0371,Books,Laptop,4.0,82.15,2024-02-13,CA,Standard
 P06555,C0172,Clothing,Garden Tools,3.0,129.36,2024-04-19,NY,Overnight
-P06558,C0155,Home & Garden,Running Shoes,3.0,51.8,2024-10-30,CA,
 P06562,C0121,Home & Garden,Novel,4.0,462.69,2024-11-21,CA,Standard
 P06564,C0039,Books,Monitor,3.0,355.29,2024-03-16,CA,Standard
 P06565,C0432,Books,Dumbbells,2.0,89.28,2024-04-08,NY,Express
@@ -1682,7 +1632,6 @@ P06661,C0150,Home & Garden,Smartphone,2.0,162.92,2024-06-19,NY,Express
 P06662,C0450,Sports,Magazine,3.0,47.76,2024-01-19,NY,Express
 P06665,C0401,Home & Garden,Lamp,2.0,376.49,2024-10-12,NY,Standard
 P06668,C0269,Sports,Tablet,5.0,360.98,2024-01-06,NY,Standard
-P06673,C0325,Home & Garden,Novel,3.0,452.9,2024-05-11,NY,
 P06674,C0342,Electronics,Lamp,4.0,117.5,2024-07-03,NY,Express
 P06675,C0104,Electronics,Textbook,5.0,410.0,2024-06-05,CA,Overnight
 P06679,C0186,Sports,Tennis Racket,2.0,437.53,2024-09-07,CA,Overnight
@@ -1732,7 +1681,6 @@ P06885,C0143,Sports,Cushion,5.0,242.26,2024-02-16,NY,Express
 P06887,C0300,Sports,Dumbbells,4.0,316.49,2024-09-15,CA,Express
 P06889,C0395,Sports,Garden Tools,4.0,30.87,2024-06-18,NY,Overnight
 P06890,C0160,Sports,Shoes,3.0,29.36,2024-11-06,CA,Overnight
-P06905,C0355,Books,Jacket,3.0,144.98,2024-04-07,CA,
 P06912,C0118,Books,Tennis Racket,2.0,392.73,2024-11-30,CA,Overnight
 P06914,C0383,Clothing,Textbook,2.0,308.19,2024-05-27,NY,Standard
 P06916,C0094,Home & Garden,Cushion,5.0,108.93,2024-06-03,CA,Overnight
@@ -1769,7 +1717,6 @@ P07029,C0050,Clothing,Basketball,3.0,335.85,2024-08-08,CA,Standard
 P07032,C0193,Home & Garden,Tennis Racket,2.0,64.4,2024-07-24,NY,Express
 P07040,C0490,Clothing,Jacket,3.0,137.24,2024-03-12,NY,Standard
 P07041,C0334,Books,Garden Tools,2.0,39.22,2024-06-15,NY,Overnight
-P07049,C0204,Home & Garden,Jacket,3.0,423.93,2024-11-23,NY,
 P07051,C0213,Electronics,Lamp,2.0,59.24,2024-07-31,CA,Standard
 P07052,C0320,Sports,Basketball,4.0,304.53,2024-02-17,CA,Standard
 P07053,C0233,Electronics,Basketball,3.0,203.94,2024-10-06,NY,Standard
@@ -1785,7 +1732,6 @@ P07108,C0275,Home & Garden,Shoes,2.0,378.86,2024-06-24,NY,Express
 P07109,C0378,Books,Running Shoes,4.0,468.99,2024-06-21,NY,Overnight
 P07111,C0186,Books,Cushion,3.0,200.71,2024-07-16,NY,Standard
 P07112,C0271,Clothing,Rug,3.0,365.79,2024-09-23,CA,Standard
-P07116,C0345,Electronics,Lamp,5.0,69.33,2024-02-03,CA,
 P07119,C0363,Home & Garden,Yoga Mat,2.0,487.89,2024-11-15,CA,Overnight
 P07123,C0017,Home & Garden,Plant Pot,4.0,392.59,2024-09-15,NY,Overnight
 P07126,C0096,Electronics,Dumbbells,4.0,469.39,2024-06-30,NY,Express
@@ -1800,7 +1746,6 @@ P07169,C0345,Electronics,Magazine,3.0,476.55,2024-02-14,CA,Express
 P07174,C0343,Clothing,Textbook,3.0,396.23,2024-02-01,NY,Express
 P07177,C0094,Clothing,Shoes,5.0,443.69,2024-12-09,NY,Standard
 P07181,C0010,Clothing,Cushion,2.0,235.22,2024-07-28,CA,Standard
-P07189,C0402,Sports,Tablet,4.0,312.94,2024-03-27,NY,
 P07194,C0357,Sports,Shoes,3.0,298.36,2024-09-17,CA,Overnight
 P07201,C0298,Sports,Tennis Racket,4.0,367.7,2024-03-19,CA,Overnight
 P07203,C0368,Electronics,Magazine,2.0,418.44,2024-06-11,CA,Standard
@@ -1822,7 +1767,6 @@ P07248,C0409,Books,Cookbook,4.0,289.9,2024-09-13,NY,Overnight
 P07255,C0133,Electronics,Garden Tools,4.0,304.48,2024-09-21,CA,Overnight
 P07256,C0197,Clothing,Dumbbells,3.0,423.13,2024-01-07,CA,Express
 P07259,C0329,Books,Novel,3.0,71.1,2024-12-30,CA,Standard
-P07269,C0073,Electronics,Tablet,4.0,370.17,2024-01-31,CA,
 P07275,C0078,Home & Garden,Hat,3.0,132.71,2024-01-09,NY,Express
 P07276,C0157,Sports,T-Shirt,3.0,336.64,2024-09-04,CA,Standard
 P07278,C0416,Electronics,Basketball,4.0,346.94,2024-07-30,CA,Overnight
@@ -1836,7 +1780,6 @@ P07320,C0239,Home & Garden,Rug,5.0,273.45,2024-06-27,CA,Express
 P07321,C0076,Books,Cookbook,3.0,230.66,2024-06-29,CA,Overnight
 P07330,C0161,Books,Tablet,2.0,303.05,2024-07-16,CA,Overnight
 P07336,C0277,Electronics,Yoga Mat,4.0,62.06,2024-11-12,CA,Express
-P07339,C0221,Electronics,Shoes,4.0,361.56,2024-11-03,NY,
 P07345,C0244,Clothing,Jeans,2.0,432.24,2024-10-14,CA,Standard
 P07347,C0332,Electronics,Garden Tools,3.0,349.11,2024-04-15,NY,Express
 P07350,C0269,Home & Garden,Shoes,5.0,288.87,2024-08-04,CA,Express
@@ -1844,14 +1787,11 @@ P07351,C0127,Home & Garden,T-Shirt,2.0,86.68,2024-06-10,CA,Express
 P07356,C0303,Clothing,Tennis Racket,2.0,493.3,2024-05-03,CA,Standard
 P07357,C0207,Sports,Plant Pot,2.0,372.19,2024-09-02,NY,Standard
 P07359,C0439,Electronics,Dumbbells,3.0,68.57,2024-05-06,CA,Standard
-P07360,C0349,Home & Garden,Headphones,4.0,107.1,2024-01-07,NY,
 P07364,C0391,Electronics,Tablet,3.0,262.89,2024-10-20,NY,Standard
 P07370,C0063,Sports,Headphones,2.0,446.09,2024-02-22,NY,Standard
-P07372,C0276,Clothing,Tennis Racket,4.0,201.09,2024-04-20,CA,
 P07374,C0332,Home & Garden,Shoes,3.0,294.8,2024-09-03,CA,Overnight
 P07379,C0008,Books,Shoes,2.0,300.66,2024-06-21,CA,Overnight
 P07384,C0335,Home & Garden,Textbook,3.0,259.1,2024-02-14,NY,Express
-P07396,C0129,Books,Textbook,3.0,52.96,2024-08-10,NY,
 P07397,C0365,Books,Jacket,5.0,229.99,2024-07-29,CA,Standard
 P07404,C0454,Sports,Monitor,4.0,314.93,2024-12-15,NY,Standard
 P07410,C0461,Electronics,Smartphone,5.0,455.87,2024-05-22,CA,Overnight
@@ -1888,7 +1828,6 @@ P07517,C0259,Sports,Hat,2.0,83.99,2024-02-26,CA,Overnight
 P07519,C0467,Electronics,Cookbook,5.0,101.86,2024-08-15,NY,Overnight
 P07524,C0263,Clothing,Cushion,4.0,417.09,2024-05-18,NY,Standard
 P07530,C0143,Home & Garden,Cookbook,4.0,362.56,2024-07-17,NY,Express
-P07531,C0221,Electronics,Novel,5.0,73.4,2024-03-26,CA,
 P07538,C0096,Sports,Dumbbells,2.0,402.47,2024-03-10,NY,Standard
 P07545,C0271,Sports,Tablet,5.0,266.06,2024-01-11,NY,Express
 P07546,C0251,Clothing,Garden Tools,5.0,378.11,2024-03-05,CA,Express
@@ -1902,7 +1841,6 @@ P07576,C0150,Home & Garden,Yoga Mat,2.0,29.0,2024-02-28,CA,Overnight
 P07578,C0317,Electronics,Running Shoes,4.0,366.51,2024-03-28,CA,Standard
 P07585,C0116,Electronics,Garden Tools,3.0,453.75,2024-10-14,NY,Overnight
 P07588,C0322,Clothing,Running Shoes,2.0,458.69,2024-12-30,NY,Standard
-P07589,C0471,Home & Garden,Smartphone,2.0,222.23,2024-09-25,NY,
 P07593,C0463,Clothing,Monitor,5.0,331.04,2024-10-20,CA,Standard
 P07594,C0456,Clothing,Jacket,5.0,204.27,2024-01-13,NY,Express
 P07598,C0386,Electronics,Monitor,3.0,393.39,2024-11-01,CA,Express
@@ -1956,7 +1894,6 @@ P07779,C0273,Home & Garden,Plant Pot,3.0,470.82,2024-01-27,NY,Express
 P07780,C0173,Clothing,Cushion,3.0,380.82,2024-04-26,CA,Standard
 P07781,C0259,Books,Jacket,4.0,436.55,2024-04-21,NY,Standard
 P07782,C0152,Clothing,Headphones,5.0,120.83,2024-04-10,CA,Standard
-P07786,C0202,Books,Shoes,4.0,132.79,2024-03-14,CA,
 P07791,C0316,Electronics,Yoga Mat,2.0,242.58,2024-09-09,NY,Express
 P07792,C0332,Home & Garden,T-Shirt,2.0,53.12,2024-04-22,NY,Overnight
 P07793,C0300,Electronics,Laptop,3.0,280.82,2024-11-03,CA,Express
@@ -1975,7 +1912,6 @@ P07847,C0469,Home & Garden,Lamp,2.0,351.09,2024-05-03,NY,Standard
 P07848,C0158,Electronics,Headphones,5.0,83.39,2024-08-17,CA,Standard
 P07852,C0162,Clothing,Hat,5.0,173.34,2024-04-23,CA,Standard
 P07855,C0119,Clothing,Shoes,5.0,21.06,2024-08-11,CA,Overnight
-P07856,C0427,Electronics,Yoga Mat,2.0,299.19,2024-11-01,NY,
 P07860,C0405,Books,Running Shoes,2.0,384.68,2024-02-20,CA,Express
 P07862,C0473,Sports,Tennis Racket,3.0,244.27,2024-11-03,NY,Overnight
 P07864,C0499,Clothing,Headphones,4.0,118.82,2024-08-21,CA,Overnight
@@ -1991,7 +1927,6 @@ P07902,C0337,Home & Garden,Textbook,4.0,16.37,2024-08-02,CA,Overnight
 P07905,C0301,Books,Headphones,4.0,375.76,2024-12-02,CA,Standard
 P07907,C0204,Home & Garden,Basketball,2.0,214.06,2024-11-10,NY,Standard
 P07910,C0431,Home & Garden,Cookbook,2.0,66.98,2024-02-20,CA,Overnight
-P07912,C0343,Home & Garden,Lamp,4.0,404.4,2024-08-24,CA,
 P07922,C0235,Books,Garden Tools,4.0,477.44,2024-04-07,NY,Standard
 P07931,C0053,Sports,Yoga Mat,4.0,446.1,2024-05-19,NY,Standard
 P07934,C0453,Clothing,Tennis Racket,2.0,217.09,2024-01-23,NY,Express
@@ -2045,7 +1980,6 @@ P08137,C0013,Sports,Tennis Racket,2.0,442.42,2024-10-23,CA,Express
 P08146,C0431,Sports,Hat,4.0,196.34,2024-02-03,CA,Express
 P08147,C0187,Books,Headphones,2.0,210.61,2024-07-22,CA,Standard
 P08154,C0340,Electronics,Basketball,2.0,216.32,2024-10-10,CA,Standard
-P08158,C0276,Clothing,Running Shoes,3.0,433.63,2024-09-08,NY,
 P08160,C0470,Books,Magazine,4.0,325.56,2024-10-23,CA,Express
 P08161,C0272,Books,Yoga Mat,2.0,119.72,2024-11-26,CA,Standard
 P08162,C0025,Clothing,Yoga Mat,4.0,335.95,2024-09-06,CA,Express
@@ -2057,7 +1991,6 @@ P08178,C0195,Clothing,Tennis Racket,2.0,107.58,2024-06-19,NY,Standard
 P08181,C0214,Clothing,Smartphone,4.0,183.17,2024-10-18,CA,Standard
 P08182,C0028,Books,Dumbbells,2.0,449.5,2024-06-01,CA,Standard
 P08187,C0236,Clothing,T-Shirt,5.0,245.43,2024-03-09,CA,Standard
-P08189,C0265,Sports,Basketball,3.0,145.5,2024-12-02,CA,
 P08191,C0428,Books,Headphones,4.0,498.81,2024-08-12,NY,Express
 P08199,C0304,Electronics,Smartphone,4.0,225.65,2024-06-07,CA,Overnight
 P08203,C0126,Electronics,Basketball,5.0,412.7,2024-05-12,NY,Standard
@@ -2066,10 +1999,8 @@ P08217,C0418,Sports,Running Shoes,3.0,114.1,2024-12-06,CA,Standard
 P08220,C0015,Books,Jeans,5.0,267.78,2024-08-08,CA,Express
 P08222,C0016,Books,Headphones,5.0,348.68,2024-03-24,NY,Express
 P08226,C0219,Home & Garden,Yoga Mat,5.0,392.12,2024-10-17,CA,Standard
-P08236,C0282,Electronics,Hat,5.0,79.0,2024-07-07,NY,
 P08242,C0008,Home & Garden,Hat,3.0,274.6,2024-08-07,NY,Standard
 P08247,C0375,Electronics,Headphones,3.0,133.75,2024-12-28,NY,Express
-P08250,C0053,Home & Garden,Running Shoes,3.0,166.06,2024-11-07,CA,
 P08252,C0307,Books,Basketball,3.0,229.14,2024-11-21,NY,Standard
 P08253,C0411,Electronics,Jeans,3.0,84.4,2024-12-19,NY,Standard
 P08257,C0255,Clothing,T-Shirt,5.0,18.43,2024-12-30,NY,Standard
@@ -2099,7 +2030,6 @@ P08349,C0124,Home & Garden,Novel,2.0,455.34,2024-05-28,NY,Express
 P08350,C0378,Books,Textbook,2.0,485.12,2024-09-14,CA,Overnight
 P08351,C0255,Clothing,Laptop,3.0,162.43,2024-04-03,CA,Overnight
 P08358,C0129,Clothing,T-Shirt,5.0,176.76,2024-01-26,NY,Express
-P08359,C0159,Home & Garden,Magazine,2.0,182.0,2024-01-14,CA,
 P08361,C0303,Sports,Lamp,3.0,49.01,2024-02-18,CA,Standard
 P08362,C0477,Home & Garden,Basketball,4.0,120.33,2024-07-15,CA,Standard
 P08363,C0467,Home & Garden,Monitor,5.0,146.75,2024-12-18,NY,Express
@@ -2109,7 +2039,6 @@ P08383,C0157,Electronics,T-Shirt,3.0,429.55,2024-12-09,NY,Standard
 P08386,C0493,Home & Garden,Jeans,3.0,284.88,2024-04-17,CA,Standard
 P08390,C0267,Books,Laptop,4.0,113.27,2024-03-10,NY,Overnight
 P08394,C0385,Books,Laptop,2.0,89.04,2024-04-01,NY,Express
-P08400,C0298,Sports,Rug,3.0,441.6,2024-05-08,CA,
 P08401,C0436,Electronics,Headphones,3.0,282.74,2024-03-02,CA,Standard
 P08409,C0496,Clothing,Hat,2.0,13.47,2024-10-09,CA,Standard
 P08413,C0003,Electronics,Dumbbells,4.0,186.99,2024-10-15,CA,Overnight
@@ -2123,7 +2052,6 @@ P08431,C0122,Books,Monitor,5.0,141.12,2024-12-27,CA,Express
 P08433,C0313,Books,T-Shirt,4.0,229.02,2024-01-06,CA,Express
 P08434,C0123,Clothing,Cookbook,2.0,338.23,2024-05-27,NY,Standard
 P08437,C0053,Clothing,Monitor,4.0,335.35,2024-02-08,CA,Express
-P08438,C0295,Home & Garden,Basketball,2.0,441.0,2024-07-09,CA,
 P08443,C0070,Home & Garden,Cushion,5.0,95.59,2024-07-29,CA,Standard
 P08449,C0205,Clothing,Garden Tools,3.0,289.78,2024-06-27,CA,Express
 P08450,C0458,Electronics,T-Shirt,4.0,162.74,2024-02-22,NY,Express
@@ -2132,7 +2060,6 @@ P08461,C0086,Books,Plant Pot,3.0,141.28,2024-12-06,NY,Standard
 P08468,C0056,Sports,Plant Pot,2.0,76.15,2024-08-18,CA,Standard
 P08469,C0243,Clothing,Jeans,2.0,437.54,2024-04-02,CA,Express
 P08470,C0268,Clothing,Cushion,5.0,300.85,2024-06-19,NY,Standard
-P08478,C0490,Clothing,Running Shoes,3.0,368.55,2024-01-24,CA,
 P08480,C0461,Clothing,Garden Tools,3.0,433.7,2024-03-02,NY,Overnight
 P08487,C0296,Sports,Headphones,3.0,76.1,2024-06-21,NY,Express
 P08492,C0346,Sports,Magazine,5.0,352.81,2024-06-26,CA,Standard
@@ -2141,7 +2068,6 @@ P08505,C0149,Electronics,Shoes,2.0,408.22,2024-10-07,NY,Standard
 P08506,C0096,Electronics,Tennis Racket,3.0,440.96,2024-11-04,CA,Overnight
 P08509,C0201,Clothing,Monitor,5.0,77.39,2024-02-12,NY,Express
 P08517,C0033,Home & Garden,T-Shirt,3.0,114.2,2024-06-01,NY,Express
-P08518,C0098,Sports,Hat,4.0,17.46,2024-02-22,NY,
 P08519,C0352,Electronics,Laptop,4.0,303.06,2024-10-25,CA,Express
 P08524,C0073,Electronics,Smartphone,4.0,245.79,2024-05-18,NY,Overnight
 P08529,C0288,Books,Jacket,3.0,64.2,2024-05-23,CA,Express
@@ -2155,8 +2081,6 @@ P08561,C0419,Books,Smartphone,3.0,325.0,2024-06-08,CA,Overnight
 P08562,C0455,Books,Running Shoes,2.0,337.66,2024-03-05,CA,Express
 P08567,C0440,Home & Garden,Headphones,3.0,242.2,2024-10-31,NY,Overnight
 P08581,C0284,Books,Shoes,2.0,245.78,2024-08-31,CA,Overnight
-P08598,C0458,Home & Garden,Tennis Racket,5.0,334.52,2024-05-31,CA,
-P08614,C0199,Books,Smartphone,5.0,69.58,2024-09-06,CA,
 P08617,C0247,Sports,Tennis Racket,5.0,248.86,2024-02-16,CA,Overnight
 P08629,C0374,Books,Yoga Mat,5.0,36.48,2024-09-01,NY,Overnight
 P08634,C0312,Home & Garden,Dumbbells,2.0,181.01,2024-03-26,NY,Overnight
@@ -2176,7 +2100,6 @@ P08680,C0035,Books,Smartphone,3.0,468.23,2024-08-23,NY,Standard
 P08681,C0350,Books,Jacket,2.0,333.81,2024-12-06,NY,Overnight
 P08683,C0232,Sports,Tennis Racket,3.0,173.08,2024-07-05,NY,Overnight
 P08688,C0443,Clothing,Basketball,2.0,314.8,2024-01-12,CA,Standard
-P08691,C0082,Books,Smartphone,5.0,439.12,2024-12-26,NY,
 P08699,C0053,Clothing,Jacket,3.0,313.95,2024-05-09,NY,Overnight
 P08700,C0379,Books,Garden Tools,4.0,337.8,2024-08-28,CA,Express
 P08705,C0431,Clothing,Tablet,4.0,48.58,2024-05-25,NY,Overnight
@@ -2204,13 +2127,11 @@ P08775,C0005,Electronics,Shoes,3.0,58.15,2024-11-29,CA,Express
 P08778,C0092,Clothing,Cookbook,2.0,66.24,2024-03-06,CA,Express
 P08780,C0048,Books,Rug,4.0,192.14,2024-10-30,NY,Overnight
 P08783,C0429,Clothing,Shoes,5.0,71.41,2024-09-16,CA,Express
-P08793,C0058,Electronics,Headphones,4.0,276.77,2024-10-07,NY,
 P08795,C0424,Electronics,Jacket,3.0,212.26,2024-09-13,CA,Express
 P08798,C0162,Sports,Novel,5.0,319.85,2024-01-02,CA,Express
 P08802,C0377,Clothing,Cookbook,2.0,29.66,2024-01-28,CA,Express
 P08806,C0163,Clothing,Jacket,2.0,425.43,2024-10-25,NY,Standard
 P08808,C0062,Sports,Headphones,5.0,161.03,2024-08-31,NY,Express
-P08813,C0030,Home & Garden,Smartphone,3.0,234.97,2024-03-09,NY,
 P08816,C0122,Books,Dumbbells,4.0,359.41,2024-07-01,NY,Overnight
 P08824,C0354,Electronics,Lamp,4.0,489.33,2024-08-01,CA,Overnight
 P08827,C0134,Home & Garden,Magazine,2.0,131.26,2024-12-22,NY,Express
@@ -2229,7 +2150,6 @@ P08884,C0370,Electronics,Cookbook,2.0,115.98,2024-09-21,CA,Express
 P08889,C0246,Books,Headphones,4.0,125.01,2024-07-24,CA,Standard
 P08890,C0049,Home & Garden,Garden Tools,5.0,309.01,2024-05-09,NY,Standard
 P08895,C0103,Clothing,Laptop,2.0,141.04,2024-12-01,CA,Standard
-P08901,C0293,Electronics,Jeans,2.0,14.88,2024-10-24,CA,
 P08913,C0267,Books,Hat,2.0,346.91,2024-12-15,CA,Overnight
 P08929,C0416,Home & Garden,Hat,5.0,266.75,2024-10-12,NY,Overnight
 P08939,C0125,Electronics,Running Shoes,3.0,401.58,2024-02-22,CA,Express
@@ -2243,9 +2163,7 @@ P08958,C0397,Sports,Cushion,2.0,100.36,2024-07-05,CA,Express
 P08960,C0299,Books,Plant Pot,4.0,35.71,2024-09-16,CA,Overnight
 P08962,C0346,Electronics,Novel,4.0,335.62,2024-08-17,CA,Express
 P08968,C0109,Books,Running Shoes,5.0,359.14,2024-10-22,CA,Overnight
-P08973,C0053,Clothing,Laptop,5.0,497.77,2024-10-19,NY,
 P08979,C0044,Home & Garden,Headphones,2.0,323.09,2024-12-20,NY,Overnight
-P08983,C0416,Home & Garden,Running Shoes,4.0,132.22,2024-11-25,NY,
 P08985,C0067,Electronics,Plant Pot,5.0,79.13,2024-05-23,CA,Express
 P08995,C0389,Electronics,Running Shoes,3.0,139.65,2024-08-14,NY,Standard
 P08996,C0340,Clothing,Tennis Racket,5.0,402.9,2024-03-06,CA,Standard
@@ -2266,7 +2184,6 @@ P09037,C0056,Clothing,Dumbbells,5.0,62.9,2024-02-07,NY,Express
 P09038,C0459,Books,Novel,5.0,335.38,2024-07-26,CA,Overnight
 P09042,C0198,Clothing,Basketball,4.0,117.94,2024-03-14,NY,Express
 P09044,C0296,Books,Yoga Mat,5.0,16.76,2024-12-29,NY,Express
-P09059,C0231,Home & Garden,Lamp,3.0,349.63,2024-11-10,NY,
 P09061,C0190,Sports,Tennis Racket,4.0,493.76,2024-07-10,CA,Standard
 P09062,C0382,Clothing,Cushion,5.0,87.83,2024-09-26,NY,Standard
 P09068,C0118,Home & Garden,Basketball,4.0,356.1,2024-10-16,CA,Standard
@@ -2275,7 +2192,6 @@ P09071,C0347,Sports,Running Shoes,5.0,52.99,2024-07-12,NY,Express
 P09072,C0194,Clothing,Shoes,5.0,313.22,2024-03-06,CA,Express
 P09080,C0422,Books,Novel,5.0,195.61,2024-03-10,CA,Standard
 P09081,C0240,Electronics,Tennis Racket,4.0,456.61,2024-05-17,CA,Express
-P09083,C0196,Clothing,Cookbook,3.0,152.17,2024-09-22,CA,
 P09089,C0007,Clothing,T-Shirt,5.0,14.45,2024-04-07,CA,Standard
 P09091,C0468,Clothing,Yoga Mat,2.0,109.75,2024-04-18,CA,Standard
 P09093,C0253,Books,Textbook,2.0,68.89,2024-12-05,CA,Express
@@ -2290,7 +2206,6 @@ P09146,C0125,Sports,Textbook,4.0,344.43,2024-07-12,CA,Express
 P09157,C0217,Home & Garden,Dumbbells,5.0,281.45,2024-05-22,NY,Standard
 P09161,C0375,Books,Tablet,4.0,70.38,2024-01-14,CA,Overnight
 P09165,C0021,Clothing,Tennis Racket,3.0,291.04,2024-01-11,NY,Express
-P09168,C0320,Clothing,Plant Pot,2.0,412.3,2024-04-18,CA,
 P09178,C0441,Electronics,Garden Tools,3.0,412.87,2024-08-10,NY,Overnight
 P09179,C0443,Electronics,Smartphone,3.0,62.77,2024-03-01,CA,Overnight
 P09184,C0088,Electronics,Rug,4.0,242.51,2024-12-27,NY,Express
@@ -2307,14 +2222,11 @@ P09230,C0306,Home & Garden,Shoes,4.0,83.44,2024-08-11,NY,Express
 P09232,C0081,Home & Garden,Magazine,5.0,274.88,2024-05-26,CA,Standard
 P09237,C0030,Clothing,Headphones,2.0,439.36,2024-03-22,NY,Express
 P09242,C0270,Clothing,Magazine,3.0,413.5,2024-04-02,NY,Overnight
-P09261,C0232,Home & Garden,Laptop,4.0,203.34,2024-11-15,NY,
 P09272,C0271,Electronics,Hat,2.0,487.97,2024-07-13,CA,Overnight
-P09278,C0061,Electronics,Dumbbells,4.0,393.2,2024-04-19,NY,
 P09281,C0135,Sports,Dumbbells,4.0,61.88,2024-03-25,CA,Express
 P09286,C0451,Clothing,Smartphone,4.0,261.63,2024-11-01,CA,Express
 P09290,C0193,Clothing,Tennis Racket,5.0,100.05,2024-03-08,CA,Standard
 P09291,C0076,Electronics,Running Shoes,2.0,159.05,2024-05-08,CA,Overnight
-P09297,C0019,Books,Dumbbells,4.0,28.79,2024-10-19,CA,
 P09300,C0267,Books,Lamp,5.0,92.17,2024-11-27,NY,Standard
 P09305,C0326,Books,Basketball,4.0,75.73,2024-04-12,NY,Standard
 P09307,C0050,Clothing,Laptop,2.0,349.76,2024-04-19,NY,Standard
@@ -2333,7 +2245,6 @@ P09342,C0450,Home & Garden,Lamp,2.0,277.42,2024-11-05,NY,Overnight
 P09343,C0418,Home & Garden,Plant Pot,2.0,258.25,2024-08-02,CA,Standard
 P09344,C0310,Sports,Running Shoes,4.0,180.44,2024-07-03,NY,Standard
 P09354,C0433,Clothing,Dumbbells,3.0,265.03,2024-08-16,CA,Standard
-P09358,C0335,Clothing,Magazine,2.0,484.22,2024-06-20,NY,
 P09360,C0303,Electronics,Plant Pot,5.0,321.26,2024-02-02,CA,Express
 P09361,C0100,Home & Garden,Laptop,2.0,413.25,2024-12-04,NY,Express
 P09362,C0196,Books,Plant Pot,3.0,139.38,2024-08-05,CA,Express
@@ -2374,7 +2285,6 @@ P09498,C0120,Sports,Headphones,4.0,249.91,2024-02-16,CA,Express
 P09499,C0303,Home & Garden,Dumbbells,5.0,434.18,2024-06-28,CA,Express
 P09504,C0059,Clothing,Monitor,3.0,418.82,2024-05-30,NY,Standard
 P09508,C0044,Books,Lamp,5.0,314.82,2024-02-09,NY,Standard
-P09518,C0111,Sports,Monitor,4.0,70.82,2024-08-27,NY,
 P09527,C0251,Clothing,Lamp,2.0,162.82,2024-08-12,NY,Overnight
 P09535,C0477,Sports,Lamp,2.0,378.96,2024-04-18,CA,Standard
 P09543,C0246,Electronics,Shoes,5.0,384.78,2024-05-22,NY,Express
@@ -2388,7 +2298,6 @@ P09563,C0114,Home & Garden,Basketball,3.0,256.04,2024-10-16,CA,Express
 P09566,C0073,Books,Running Shoes,3.0,25.29,2024-12-27,NY,Express
 P09569,C0443,Home & Garden,Tennis Racket,5.0,450.98,2024-05-15,NY,Express
 P09573,C0282,Electronics,Dumbbells,5.0,45.05,2024-10-06,NY,Express
-P09574,C0067,Books,Tennis Racket,2.0,203.78,2024-05-15,CA,
 P09577,C0165,Electronics,Hat,4.0,389.55,2024-05-18,CA,Express
 P09582,C0274,Clothing,Cookbook,2.0,56.88,2024-10-05,NY,Overnight
 P09589,C0067,Electronics,Jeans,5.0,322.63,2024-06-28,NY,Overnight
@@ -2415,7 +2324,6 @@ P09691,C0158,Clothing,Jeans,2.0,149.18,2024-04-20,NY,Express
 P09693,C0199,Home & Garden,Yoga Mat,3.0,169.33,2024-09-18,CA,Express
 P09696,C0383,Clothing,Jeans,3.0,259.62,2024-06-07,CA,Express
 P09697,C0465,Electronics,Novel,4.0,33.12,2024-01-21,CA,Overnight
-P09700,C0396,Sports,Plant Pot,2.0,134.84,2024-07-29,NY,
 P09701,C0024,Home & Garden,Cushion,2.0,22.18,2024-12-25,CA,Standard
 P09706,C0098,Electronics,Cookbook,4.0,165.68,2024-04-14,CA,Overnight
 P09714,C0120,Sports,Plant Pot,5.0,27.73,2024-02-13,CA,Standard
@@ -2441,7 +2349,6 @@ P09781,C0223,Home & Garden,Monitor,3.0,250.62,2024-12-27,NY,Standard
 P09785,C0090,Books,Tennis Racket,5.0,348.07,2024-01-07,CA,Express
 P09792,C0438,Electronics,Cushion,4.0,458.57,2024-09-29,CA,Express
 P09795,C0082,Electronics,Hat,4.0,463.63,2024-07-02,NY,Overnight
-P09797,C0096,Electronics,Jacket,3.0,409.38,2024-09-04,CA,
 P09802,C0449,Sports,Cushion,5.0,145.63,2024-02-27,NY,Express
 P09803,C0134,Home & Garden,Textbook,5.0,35.54,2024-07-24,NY,Overnight
 P09807,C0277,Electronics,Tablet,4.0,260.31,2024-05-19,CA,Standard
@@ -2485,13 +2392,11 @@ P09924,C0465,Books,Jeans,3.0,177.6,2024-11-01,CA,Standard
 P09926,C0233,Sports,Headphones,2.0,399.57,2024-03-20,CA,Express
 P09932,C0190,Clothing,Cookbook,3.0,137.49,2024-08-21,CA,Express
 P09940,C0487,Electronics,Cushion,5.0,26.2,2024-07-21,CA,Express
-P09942,C0406,Home & Garden,Monitor,4.0,208.79,2024-06-18,CA,
 P09951,C0258,Books,Tablet,3.0,174.97,2024-09-30,CA,Express
 P09952,C0017,Home & Garden,Headphones,3.0,284.16,2024-10-25,NY,Standard
 P09953,C0322,Clothing,Shoes,4.0,151.69,2024-04-04,NY,Overnight
 P09955,C0482,Home & Garden,Magazine,2.0,193.71,2024-05-03,NY,Standard
 P09956,C0161,Home & Garden,T-Shirt,4.0,497.32,2024-08-20,CA,Overnight
-P09957,C0454,Books,Garden Tools,4.0,100.23,2024-08-31,CA,
 P09968,C0008,Electronics,Shoes,4.0,124.34,2024-09-08,CA,Overnight
 P09969,C0399,Electronics,Dumbbells,5.0,478.37,2024-05-16,CA,Express
 P09974,C0090,Books,Cushion,4.0,165.23,2024-06-24,CA,Standard
@@ -2520,7 +2425,6 @@ P10060,C0163,Home & Garden,Hat,5.0,424.26,2024-04-28,CA,Express
 P10068,C0112,Clothing,Cushion,5.0,453.42,2024-11-18,NY,Express
 P10070,C0247,Home & Garden,Tennis Racket,4.0,79.39,2024-05-05,CA,Overnight
 P10072,C0082,Home & Garden,Cookbook,4.0,280.23,2024-12-01,CA,Overnight
-P10073,C0475,Sports,Laptop,4.0,215.0,2024-02-23,CA,
 P10088,C0479,Sports,Tennis Racket,5.0,259.76,2024-11-23,NY,Standard
 P10094,C0219,Electronics,Yoga Mat,5.0,164.9,2024-02-16,NY,Standard
 P10096,C0046,Books,Cookbook,4.0,309.7,2024-03-20,NY,Standard
@@ -2555,7 +2459,6 @@ P10202,C0231,Electronics,Tennis Racket,3.0,446.7,2024-02-27,NY,Overnight
 P10205,C0364,Clothing,Laptop,3.0,477.28,2024-07-02,NY,Standard
 P10206,C0339,Electronics,Hat,2.0,398.41,2024-12-08,NY,Express
 P10210,C0434,Books,Hat,3.0,351.16,2024-04-29,NY,Overnight
-P10213,C0023,Sports,Cookbook,5.0,216.82,2024-10-12,NY,
 P10215,C0031,Home & Garden,Tablet,5.0,470.71,2024-03-10,NY,Standard
 P10218,C0474,Electronics,Tablet,3.0,384.15,2024-02-19,NY,Standard
 P10224,C0025,Sports,Hat,2.0,149.47,2024-04-26,NY,Overnight
@@ -2567,7 +2470,6 @@ P10237,C0314,Books,Textbook,3.0,62.78,2024-11-11,NY,Standard
 P10238,C0325,Sports,Shoes,5.0,15.01,2024-03-01,NY,Overnight
 P10240,C0075,Home & Garden,Cookbook,3.0,468.29,2024-11-26,NY,Express
 P10247,C0098,Home & Garden,Monitor,2.0,117.38,2024-06-18,NY,Overnight
-P10250,C0433,Home & Garden,Basketball,5.0,135.93,2024-11-03,NY,
 P10253,C0486,Books,Running Shoes,3.0,447.77,2024-06-07,CA,Express
 P10259,C0439,Home & Garden,Dumbbells,2.0,372.54,2024-06-17,NY,Express
 P10262,C0483,Home & Garden,Tablet,4.0,435.16,2024-02-17,NY,Overnight
@@ -2579,7 +2481,6 @@ P10280,C0423,Sports,Rug,3.0,51.19,2024-11-28,CA,Express
 P10281,C0094,Home & Garden,Shoes,2.0,498.98,2024-08-30,CA,Express
 P10283,C0255,Books,Running Shoes,3.0,441.19,2024-05-27,CA,Standard
 P10285,C0172,Books,Running Shoes,5.0,337.49,2024-09-13,CA,Standard
-P10287,C0315,Electronics,Garden Tools,5.0,494.57,2024-12-25,CA,
 P10288,C0499,Books,Tablet,5.0,266.57,2024-05-05,CA,Standard
 P10294,C0460,Clothing,Textbook,5.0,403.22,2024-11-17,CA,Express
 P10297,C0431,Electronics,Textbook,2.0,257.29,2024-03-31,NY,Standard
@@ -2587,7 +2488,6 @@ P10302,C0301,Home & Garden,Cushion,4.0,399.32,2024-12-22,CA,Overnight
 P10304,C0084,Clothing,Cushion,3.0,53.45,2024-03-26,NY,Express
 P10307,C0429,Home & Garden,Cookbook,3.0,29.03,2024-03-05,CA,Overnight
 P10318,C0009,Home & Garden,Cookbook,3.0,108.31,2024-05-28,CA,Overnight
-P10322,C0140,Sports,Rug,3.0,390.12,2024-08-17,CA,
 P10323,C0322,Sports,T-Shirt,5.0,424.33,2024-06-06,CA,Overnight
 P10332,C0272,Sports,Plant Pot,3.0,313.97,2024-06-15,CA,Overnight
 P10334,C0117,Books,Lamp,4.0,47.88,2024-09-02,CA,Overnight
@@ -2702,7 +2602,6 @@ P10748,C0038,Electronics,Novel,5.0,485.87,2024-05-21,NY,Express
 P10762,C0468,Sports,Shoes,3.0,343.59,2024-01-08,CA,Overnight
 P10763,C0163,Books,Tennis Racket,5.0,307.48,2024-11-09,CA,Express
 P10766,C0163,Electronics,Lamp,4.0,499.24,2024-12-27,NY,Express
-P10781,C0287,Sports,Yoga Mat,4.0,458.48,2024-12-01,CA,
 P10783,C0386,Home & Garden,Smartphone,2.0,140.0,2024-11-05,CA,Overnight
 P10793,C0302,Clothing,Plant Pot,3.0,457.32,2024-01-31,NY,Overnight
 P10796,C0055,Books,T-Shirt,5.0,135.13,2024-12-11,NY,Overnight
@@ -2719,7 +2618,6 @@ P10819,C0467,Books,Cushion,3.0,39.71,2024-02-25,CA,Overnight
 P10820,C0268,Sports,Rug,2.0,446.18,2024-11-17,CA,Standard
 P10823,C0126,Clothing,Tablet,2.0,399.67,2024-01-31,NY,Standard
 P10825,C0139,Sports,Cookbook,5.0,72.73,2024-05-04,NY,Express
-P10826,C0144,Books,Hat,5.0,187.24,2024-06-25,CA,
 P10829,C0119,Books,Yoga Mat,3.0,298.93,2024-12-04,NY,Standard
 P10830,C0383,Home & Garden,Jacket,3.0,485.31,2024-04-19,CA,Standard
 P10835,C0467,Clothing,Garden Tools,4.0,182.62,2024-04-08,NY,Express
@@ -2730,8 +2628,6 @@ P10863,C0385,Clothing,Magazine,2.0,290.89,2024-10-20,CA,Standard
 P10867,C0267,Books,Novel,2.0,201.0,2024-09-12,CA,Express
 P10869,C0141,Home & Garden,Yoga Mat,4.0,315.87,2024-01-30,CA,Express
 P10872,C0184,Sports,Magazine,4.0,353.31,2024-05-17,NY,Overnight
-P10878,C0078,Electronics,Lamp,2.0,180.96,2024-11-21,NY,
-P10886,C0451,Sports,Tennis Racket,5.0,378.77,2024-08-05,CA,
 P10887,C0161,Sports,Yoga Mat,5.0,102.91,2024-08-08,CA,Standard
 P10889,C0118,Clothing,Smartphone,5.0,437.2,2024-09-13,CA,Standard
 P10899,C0133,Books,Headphones,4.0,308.03,2024-12-13,CA,Overnight
@@ -2740,7 +2636,6 @@ P10916,C0461,Sports,Rug,3.0,78.88,2024-02-08,CA,Overnight
 P10928,C0303,Clothing,Headphones,5.0,341.12,2024-06-29,NY,Standard
 P10941,C0105,Home & Garden,Cookbook,3.0,456.58,2024-12-05,NY,Express
 P10948,C0061,Books,Plant Pot,2.0,29.95,2024-12-13,CA,Standard
-P10952,C0113,Clothing,Basketball,4.0,263.54,2024-09-30,NY,
 P10957,C0138,Electronics,Monitor,3.0,479.27,2024-10-06,NY,Overnight
 P10962,C0263,Sports,Cookbook,4.0,49.49,2024-05-16,NY,Overnight
 P10966,C0213,Clothing,Tablet,4.0,12.92,2024-09-28,NY,Express
@@ -2748,15 +2643,12 @@ P10971,C0293,Home & Garden,Novel,2.0,457.73,2024-03-17,NY,Standard
 P10980,C0265,Sports,Garden Tools,2.0,283.65,2024-05-23,NY,Express
 P10981,C0316,Home & Garden,Jeans,2.0,324.38,2024-02-03,CA,Standard
 P10984,C0341,Books,Lamp,2.0,252.99,2024-07-08,NY,Express
-P10988,C0149,Clothing,T-Shirt,5.0,313.27,2024-03-21,NY,
 P10992,C0058,Books,Garden Tools,4.0,16.94,2024-08-06,NY,Standard
 P10996,C0378,Sports,Running Shoes,5.0,24.48,2024-07-25,CA,Express
 P11001,C0392,Sports,Magazine,3.0,238.0,2024-12-25,NY,Express
 P11004,C0070,Electronics,Laptop,2.0,53.06,2024-06-03,CA,Express
-P11006,C0475,Clothing,Plant Pot,5.0,472.67,2024-08-12,NY,
 P11010,C0173,Books,Novel,4.0,310.41,2024-07-06,CA,Overnight
 P11018,C0440,Sports,Jacket,3.0,306.28,2024-08-13,NY,Standard
-P11022,C0001,Home & Garden,Plant Pot,3.0,92.31,2024-11-08,NY,
 P11025,C0409,Books,Lamp,3.0,396.35,2024-03-09,CA,Overnight
 P11027,C0436,Home & Garden,Jacket,2.0,433.53,2024-10-26,CA,Express
 P11028,C0377,Clothing,Tennis Racket,2.0,144.86,2024-05-07,CA,Express
@@ -2790,7 +2682,6 @@ P11108,C0134,Home & Garden,Cushion,3.0,289.24,2024-08-19,CA,Express
 P11109,C0239,Books,Cookbook,2.0,85.57,2024-09-29,CA,Overnight
 P11116,C0434,Home & Garden,Headphones,3.0,393.77,2024-07-12,NY,Overnight
 P11119,C0338,Home & Garden,Plant Pot,5.0,320.93,2024-07-13,NY,Express
-P11130,C0437,Electronics,Tennis Racket,5.0,367.61,2024-04-25,CA,
 P11131,C0389,Home & Garden,Lamp,2.0,330.93,2024-05-15,CA,Overnight
 P11134,C0475,Clothing,Jeans,2.0,34.47,2024-04-05,NY,Express
 P11137,C0396,Home & Garden,Magazine,2.0,218.18,2024-03-30,NY,Overnight
@@ -2805,7 +2696,6 @@ P11166,C0291,Books,Tennis Racket,5.0,98.79,2024-10-13,CA,Overnight
 P11170,C0471,Books,Plant Pot,5.0,463.66,2024-09-09,CA,Express
 P11177,C0147,Books,Laptop,3.0,484.42,2024-08-18,NY,Standard
 P11181,C0475,Electronics,T-Shirt,2.0,179.03,2024-08-05,NY,Standard
-P11183,C0198,Electronics,Cookbook,4.0,239.99,2024-05-20,CA,
 P11201,C0369,Clothing,Headphones,5.0,272.77,2024-06-26,NY,Overnight
 P11205,C0450,Clothing,Magazine,2.0,164.32,2024-11-12,NY,Overnight
 P11211,C0427,Books,Headphones,2.0,322.92,2024-08-19,NY,Overnight
@@ -2885,7 +2775,6 @@ P11503,C0185,Sports,Magazine,4.0,124.54,2024-03-09,CA,Overnight
 P11506,C0074,Books,Rug,3.0,98.74,2024-10-12,CA,Express
 P11520,C0164,Clothing,Yoga Mat,5.0,301.51,2024-10-28,CA,Standard
 P11527,C0057,Electronics,Rug,3.0,71.55,2024-08-20,CA,Standard
-P11531,C0126,Clothing,Jacket,2.0,211.8,2024-03-10,NY,
 P11536,C0333,Electronics,Running Shoes,2.0,345.02,2024-05-22,NY,Overnight
 P11537,C0440,Sports,Jacket,5.0,262.43,2024-05-09,CA,Express
 P11540,C0344,Books,T-Shirt,4.0,270.56,2024-10-05,CA,Express
@@ -2895,13 +2784,11 @@ P11559,C0366,Home & Garden,Jacket,4.0,275.24,2024-08-30,CA,Overnight
 P11565,C0246,Home & Garden,Headphones,5.0,302.52,2024-08-11,NY,Standard
 P11566,C0254,Clothing,Cushion,5.0,232.49,2024-04-29,NY,Standard
 P11567,C0290,Electronics,Laptop,3.0,207.1,2024-09-23,CA,Express
-P11585,C0270,Books,Shoes,2.0,132.86,2024-07-08,NY,
 P11588,C0295,Home & Garden,Novel,3.0,87.35,2024-06-25,NY,Standard
 P11592,C0340,Clothing,Smartphone,4.0,409.34,2024-11-06,CA,Standard
 P11600,C0272,Clothing,Running Shoes,5.0,221.93,2024-04-12,NY,Overnight
 P11605,C0054,Sports,Textbook,5.0,403.33,2024-01-31,NY,Standard
 P11609,C0306,Home & Garden,Shoes,2.0,261.32,2024-12-26,NY,Express
-P11610,C0206,Books,Cookbook,4.0,289.04,2024-03-29,CA,
 P11613,C0079,Sports,Plant Pot,4.0,65.01,2024-07-18,NY,Standard
 P11614,C0467,Electronics,Magazine,3.0,138.18,2024-10-08,NY,Overnight
 P11615,C0134,Sports,Plant Pot,4.0,54.91,2024-04-03,CA,Standard
@@ -2940,7 +2827,6 @@ P11755,C0094,Books,Novel,2.0,40.89,2024-07-19,NY,Standard
 P11757,C0483,Home & Garden,Jeans,4.0,218.03,2024-04-27,CA,Standard
 P11761,C0348,Clothing,Jeans,5.0,320.84,2024-05-06,CA,Express
 P11766,C0267,Books,Headphones,5.0,255.13,2024-11-05,CA,Standard
-P11767,C0375,Clothing,Tennis Racket,2.0,36.78,2024-11-15,NY,
 P11774,C0299,Home & Garden,Smartphone,2.0,76.1,2024-06-26,CA,Express
 P11780,C0343,Clothing,Basketball,5.0,210.34,2024-07-26,CA,Standard
 P11783,C0149,Clothing,Jeans,4.0,489.17,2024-06-08,NY,Overnight
@@ -2953,7 +2839,6 @@ P11811,C0403,Electronics,T-Shirt,5.0,98.31,2024-02-24,NY,Express
 P11813,C0180,Clothing,Laptop,5.0,267.5,2024-08-05,NY,Express
 P11814,C0149,Books,Jeans,2.0,152.71,2024-04-15,NY,Express
 P11815,C0005,Electronics,Headphones,4.0,271.48,2024-09-24,CA,Standard
-P11826,C0276,Electronics,Tablet,2.0,378.93,2024-10-16,CA,
 P11832,C0301,Books,Tablet,3.0,396.56,2024-01-18,NY,Overnight
 P11838,C0117,Books,Magazine,2.0,45.06,2024-03-02,CA,Overnight
 P11839,C0471,Sports,Lamp,4.0,224.58,2024-04-25,CA,Overnight
@@ -3000,7 +2885,6 @@ P11989,C0119,Books,T-Shirt,5.0,280.27,2024-02-29,CA,Overnight
 P11997,C0172,Sports,Garden Tools,4.0,37.9,2024-02-29,NY,Standard
 P12004,C0071,Sports,Magazine,2.0,418.16,2024-12-06,CA,Overnight
 P12006,C0252,Clothing,Jacket,5.0,444.55,2024-03-15,CA,Standard
-P12008,C0371,Home & Garden,Textbook,2.0,152.82,2024-02-22,NY,
 P12012,C0097,Books,Headphones,2.0,138.8,2024-01-26,CA,Overnight
 P12025,C0053,Books,Headphones,5.0,317.59,2024-11-21,NY,Overnight
 P12034,C0133,Clothing,Lamp,4.0,438.26,2024-09-16,NY,Standard
@@ -3037,7 +2921,6 @@ P12146,C0141,Books,Laptop,3.0,170.9,2024-02-11,NY,Standard
 P12148,C0173,Books,Headphones,4.0,138.51,2024-10-12,CA,Standard
 P12149,C0399,Clothing,Monitor,3.0,345.31,2024-07-16,CA,Overnight
 P12150,C0496,Sports,Garden Tools,2.0,286.47,2024-02-13,NY,Standard
-P12158,C0140,Electronics,Monitor,5.0,67.98,2024-04-17,NY,
 P12159,C0279,Clothing,Yoga Mat,3.0,322.83,2024-07-15,NY,Standard
 P12160,C0222,Sports,Smartphone,5.0,89.47,2024-06-14,CA,Overnight
 P12161,C0345,Electronics,Garden Tools,2.0,122.7,2024-09-27,CA,Overnight
@@ -3054,7 +2937,6 @@ P12194,C0316,Home & Garden,Shoes,5.0,208.26,2024-02-13,CA,Express
 P12207,C0258,Sports,Monitor,2.0,429.53,2024-09-08,CA,Standard
 P12209,C0376,Clothing,Textbook,4.0,294.44,2024-04-01,NY,Express
 P12215,C0488,Books,Garden Tools,4.0,106.15,2024-02-04,NY,Express
-P12220,C0014,Home & Garden,Monitor,4.0,367.17,2024-10-24,CA,
 P12225,C0088,Books,T-Shirt,2.0,129.46,2024-01-23,NY,Overnight
 P12229,C0099,Clothing,Magazine,3.0,247.14,2024-06-24,NY,Standard
 P12235,C0251,Home & Garden,T-Shirt,5.0,418.95,2024-10-14,CA,Overnight
@@ -3072,7 +2954,6 @@ P12271,C0489,Clothing,Jacket,2.0,57.81,2024-08-15,NY,Express
 P12273,C0219,Sports,Novel,3.0,388.11,2024-11-08,NY,Overnight
 P12274,C0202,Clothing,Laptop,3.0,309.23,2024-04-04,CA,Express
 P12275,C0156,Clothing,Tablet,5.0,496.45,2024-11-08,NY,Standard
-P12283,C0273,Books,Jeans,5.0,264.61,2024-09-14,CA,
 P12285,C0078,Sports,Cushion,3.0,96.3,2024-02-23,NY,Standard
 P12287,C0292,Sports,Yoga Mat,4.0,361.93,2024-11-29,NY,Express
 P12290,C0404,Clothing,Garden Tools,5.0,319.56,2024-07-23,CA,Express
@@ -3110,7 +2991,6 @@ P12451,C0280,Home & Garden,Tablet,4.0,445.29,2024-03-10,CA,Overnight
 P12455,C0446,Sports,Jeans,4.0,362.12,2024-05-27,CA,Standard
 P12456,C0319,Clothing,Hat,4.0,186.16,2024-09-18,NY,Overnight
 P12461,C0101,Electronics,Cushion,3.0,179.89,2024-07-15,CA,Overnight
-P12466,C0062,Clothing,Headphones,5.0,303.37,2024-04-02,NY,
 P12467,C0480,Books,Monitor,3.0,210.56,2024-10-08,CA,Standard
 P12470,C0183,Electronics,Lamp,4.0,304.68,2024-02-07,CA,Overnight
 P12474,C0499,Clothing,Laptop,5.0,21.4,2024-04-27,NY,Express
@@ -3118,7 +2998,6 @@ P12481,C0321,Electronics,Magazine,2.0,295.2,2024-03-23,CA,Overnight
 P12488,C0131,Clothing,Jacket,4.0,329.74,2024-06-24,CA,Overnight
 P12499,C0221,Books,Shoes,2.0,473.58,2024-06-16,CA,Express
 P12503,C0042,Electronics,Yoga Mat,5.0,494.35,2024-05-30,NY,Express
-P12507,C0233,Electronics,Headphones,3.0,63.04,2024-04-28,NY,
 P12510,C0245,Books,Basketball,5.0,355.65,2024-09-04,CA,Overnight
 P12511,C0035,Electronics,Magazine,3.0,25.33,2024-12-20,CA,Express
 P12513,C0047,Clothing,Rug,4.0,143.79,2024-07-26,NY,Standard
@@ -3140,10 +3019,8 @@ P12556,C0261,Electronics,Jeans,5.0,142.78,2024-11-28,CA,Standard
 P12560,C0031,Home & Garden,Novel,4.0,294.35,2024-05-04,NY,Express
 P12565,C0200,Electronics,Yoga Mat,4.0,343.42,2024-08-19,NY,Overnight
 P12571,C0085,Books,Shoes,4.0,231.85,2024-01-24,CA,Standard
-P12575,C0236,Books,Rug,5.0,393.77,2024-05-23,CA,
 P12578,C0389,Books,Running Shoes,5.0,414.14,2024-07-03,CA,Express
 P12583,C0398,Home & Garden,Cushion,5.0,13.8,2024-09-16,NY,Standard
-P12584,C0329,Sports,Tennis Racket,2.0,470.84,2024-01-12,NY,
 P12590,C0083,Electronics,Cookbook,2.0,52.69,2024-02-02,CA,Express
 P12591,C0169,Books,Laptop,5.0,47.82,2024-07-29,CA,Express
 P12609,C0118,Books,Plant Pot,4.0,215.59,2024-07-03,CA,Overnight
@@ -3201,9 +3078,7 @@ P12781,C0142,Books,T-Shirt,2.0,212.63,2024-10-11,NY,Standard
 P12785,C0153,Home & Garden,Rug,2.0,30.83,2024-05-10,NY,Overnight
 P12800,C0042,Books,Textbook,5.0,334.6,2024-02-02,CA,Express
 P12814,C0234,Home & Garden,Hat,3.0,458.29,2024-09-24,CA,Overnight
-P12817,C0497,Clothing,Smartphone,2.0,392.71,2024-02-21,CA,
 P12819,C0068,Electronics,Basketball,3.0,457.04,2024-01-30,NY,Express
-P12820,C0259,Books,Rug,5.0,367.97,2024-03-01,CA,
 P12824,C0365,Books,Smartphone,3.0,182.95,2024-01-02,NY,Express
 P12844,C0177,Home & Garden,Novel,3.0,295.34,2024-02-28,NY,Express
 P12847,C0455,Electronics,Hat,4.0,89.81,2024-05-21,CA,Express
@@ -3230,7 +3105,6 @@ P12913,C0251,Clothing,Running Shoes,2.0,434.98,2024-09-06,CA,Standard
 P12918,C0297,Home & Garden,Garden Tools,2.0,390.78,2024-10-29,CA,Standard
 P12924,C0225,Clothing,Tennis Racket,2.0,182.6,2024-06-02,CA,Express
 P12929,C0493,Books,Cookbook,5.0,437.6,2024-11-09,CA,Standard
-P12931,C0481,Electronics,Lamp,2.0,133.32,2024-12-17,NY,
 P12936,C0468,Sports,Cookbook,4.0,264.43,2024-02-29,CA,Standard
 P12938,C0428,Clothing,Hat,3.0,141.39,2024-08-13,NY,Standard
 P12948,C0325,Books,Lamp,4.0,208.14,2024-09-02,CA,Express
@@ -3263,7 +3137,6 @@ P13080,C0463,Electronics,Garden Tools,4.0,332.49,2024-02-13,CA,Overnight
 P13081,C0290,Sports,Garden Tools,3.0,436.94,2024-09-10,CA,Standard
 P13082,C0477,Electronics,Jeans,2.0,377.49,2024-10-14,CA,Overnight
 P13083,C0032,Sports,Cookbook,4.0,201.57,2024-03-09,NY,Standard
-P13085,C0301,Clothing,Rug,4.0,284.42,2024-01-17,CA,
 P13087,C0092,Clothing,Basketball,3.0,337.77,2024-05-28,NY,Express
 P13093,C0224,Sports,Dumbbells,3.0,60.19,2024-03-05,CA,Standard
 P13099,C0055,Sports,T-Shirt,4.0,226.96,2024-10-21,NY,Standard
@@ -3284,10 +3157,8 @@ P13164,C0165,Clothing,Laptop,3.0,487.64,2024-12-25,NY,Express
 P13175,C0266,Clothing,Magazine,5.0,87.62,2024-06-12,NY,Express
 P13176,C0112,Books,Basketball,5.0,289.19,2024-12-09,NY,Express
 P13181,C0136,Sports,Garden Tools,3.0,234.4,2024-05-09,CA,Express
-P13195,C0325,Home & Garden,Yoga Mat,2.0,411.56,2024-06-30,CA,
 P13198,C0155,Home & Garden,Laptop,2.0,355.77,2024-03-19,NY,Express
 P13205,C0078,Home & Garden,T-Shirt,5.0,71.55,2024-12-04,CA,Express
-P13214,C0144,Home & Garden,Textbook,5.0,292.02,2024-04-11,CA,
 P13215,C0456,Electronics,Tennis Racket,5.0,301.31,2024-01-01,CA,Express
 P13219,C0463,Sports,Smartphone,3.0,55.33,2024-10-21,CA,Express
 P13222,C0438,Electronics,Laptop,5.0,118.02,2024-04-07,CA,Standard
@@ -3316,7 +3187,6 @@ P13310,C0088,Sports,Smartphone,5.0,250.79,2024-11-05,NY,Overnight
 P13315,C0049,Home & Garden,Cookbook,3.0,164.45,2024-03-14,CA,Standard
 P13317,C0410,Home & Garden,Monitor,2.0,80.05,2024-04-06,CA,Standard
 P13319,C0464,Books,Cookbook,3.0,113.2,2024-11-01,NY,Overnight
-P13322,C0129,Electronics,Dumbbells,5.0,264.65,2024-11-10,CA,
 P13324,C0480,Sports,Shoes,2.0,155.43,2024-03-09,CA,Overnight
 P13331,C0389,Clothing,Cushion,2.0,470.22,2024-05-19,CA,Standard
 P13333,C0477,Home & Garden,Basketball,4.0,51.5,2024-05-24,NY,Overnight
@@ -3324,12 +3194,10 @@ P13339,C0216,Electronics,Novel,2.0,434.14,2024-03-04,NY,Overnight
 P13343,C0426,Books,Tablet,5.0,43.13,2024-09-07,CA,Standard
 P13346,C0432,Clothing,Garden Tools,5.0,240.82,2024-12-17,CA,Overnight
 P13349,C0081,Electronics,Tennis Racket,3.0,376.62,2024-03-03,CA,Express
-P13356,C0378,Books,Plant Pot,5.0,23.05,2024-11-19,CA,
 P13357,C0496,Home & Garden,Running Shoes,4.0,256.56,2024-04-03,NY,Express
 P13365,C0027,Books,Dumbbells,5.0,326.89,2024-04-25,NY,Express
 P13366,C0371,Clothing,Headphones,3.0,242.65,2024-10-10,NY,Express
 P13367,C0475,Clothing,Jacket,2.0,396.91,2024-02-05,NY,Standard
-P13371,C0261,Electronics,T-Shirt,2.0,75.32,2024-02-06,NY,
 P13374,C0027,Sports,Dumbbells,5.0,347.3,2024-12-29,NY,Standard
 P13376,C0024,Clothing,Rug,2.0,204.31,2024-01-07,NY,Express
 P13377,C0202,Books,Textbook,5.0,205.16,2024-07-01,NY,Standard
@@ -3352,7 +3220,6 @@ P13442,C0287,Home & Garden,Textbook,2.0,171.95,2024-04-28,NY,Standard
 P13448,C0065,Sports,Jeans,3.0,483.82,2024-03-05,NY,Overnight
 P13449,C0138,Books,Basketball,5.0,216.31,2024-01-13,CA,Overnight
 P13451,C0078,Sports,Rug,4.0,380.25,2024-08-24,CA,Standard
-P13452,C0497,Home & Garden,Smartphone,4.0,247.46,2024-11-10,NY,
 P13459,C0463,Home & Garden,Lamp,4.0,418.48,2024-04-14,CA,Overnight
 P13463,C0017,Electronics,Shoes,3.0,83.9,2024-04-25,CA,Express
 P13471,C0341,Books,Tennis Racket,3.0,123.08,2024-06-05,NY,Express
@@ -3368,7 +3235,6 @@ P13503,C0498,Books,Cushion,4.0,39.9,2024-10-21,NY,Standard
 P13504,C0004,Home & Garden,Hat,5.0,268.94,2024-09-02,CA,Standard
 P13506,C0203,Electronics,Headphones,3.0,14.09,2024-12-21,CA,Standard
 P13512,C0492,Clothing,Running Shoes,3.0,331.17,2024-02-15,NY,Standard
-P13515,C0234,Sports,Cushion,5.0,54.3,2024-02-25,CA,
 P13517,C0254,Books,Running Shoes,4.0,350.68,2024-07-03,NY,Express
 P13520,C0253,Electronics,Headphones,2.0,165.43,2024-01-15,CA,Standard
 P13521,C0243,Clothing,Cushion,5.0,342.12,2024-05-15,CA,Standard
@@ -3394,7 +3260,6 @@ P13607,C0397,Electronics,Cookbook,2.0,150.55,2024-07-06,NY,Express
 P13609,C0375,Electronics,Garden Tools,2.0,200.02,2024-01-15,CA,Standard
 P13615,C0173,Home & Garden,Garden Tools,3.0,287.42,2024-11-13,NY,Overnight
 P13617,C0244,Electronics,Jeans,5.0,459.85,2024-03-10,CA,Overnight
-P13621,C0188,Electronics,Headphones,5.0,286.88,2024-08-26,CA,
 P13623,C0091,Clothing,Laptop,4.0,428.5,2024-04-16,CA,Overnight
 P13624,C0480,Sports,Rug,2.0,350.96,2024-09-13,NY,Standard
 P13628,C0423,Books,Novel,2.0,491.09,2024-03-02,NY,Overnight
@@ -3423,11 +3288,8 @@ P13755,C0284,Clothing,Novel,4.0,418.04,2024-03-20,CA,Express
 P13756,C0485,Clothing,Dumbbells,5.0,210.35,2024-04-16,NY,Express
 P13759,C0236,Clothing,T-Shirt,4.0,491.94,2024-07-19,CA,Express
 P13763,C0280,Clothing,Smartphone,3.0,404.75,2024-08-25,CA,Overnight
-P13764,C0287,Clothing,Dumbbells,5.0,338.26,2024-10-25,CA,
 P13773,C0195,Electronics,Tennis Racket,4.0,199.58,2024-11-10,NY,Overnight
 P13788,C0133,Electronics,Headphones,4.0,154.74,2024-03-25,CA,Overnight
-P13789,C0198,Books,Yoga Mat,2.0,415.09,2024-11-09,CA,
-P13796,C0080,Electronics,Monitor,2.0,246.32,2024-12-27,NY,
 P13802,C0494,Sports,Plant Pot,5.0,332.36,2024-09-08,NY,Standard
 P13806,C0017,Electronics,Headphones,5.0,46.31,2024-12-20,CA,Overnight
 P13807,C0257,Clothing,Lamp,4.0,95.22,2024-05-14,CA,Express
@@ -3436,7 +3298,6 @@ P13814,C0273,Electronics,Headphones,4.0,110.49,2024-10-20,NY,Standard
 P13820,C0200,Clothing,Tablet,4.0,366.93,2024-04-14,CA,Express
 P13827,C0267,Clothing,T-Shirt,3.0,211.61,2024-07-02,NY,Standard
 P13828,C0363,Clothing,Hat,3.0,498.12,2024-03-10,NY,Standard
-P13829,C0455,Sports,Tablet,4.0,127.22,2024-01-10,CA,
 P13833,C0241,Books,Smartphone,4.0,366.91,2024-02-06,NY,Overnight
 P13838,C0421,Sports,Smartphone,2.0,178.08,2024-04-25,NY,Standard
 P13845,C0321,Electronics,Hat,2.0,323.81,2024-03-25,CA,Standard
@@ -3447,7 +3308,6 @@ P13854,C0364,Home & Garden,Tennis Racket,4.0,188.98,2024-09-16,CA,Standard
 P13855,C0406,Books,Headphones,4.0,398.46,2024-10-15,NY,Overnight
 P13859,C0480,Clothing,Dumbbells,4.0,282.1,2024-02-14,NY,Standard
 P13862,C0014,Books,Plant Pot,4.0,218.75,2024-05-21,NY,Standard
-P13866,C0348,Home & Garden,Plant Pot,2.0,325.86,2024-01-31,NY,
 P13867,C0114,Books,Shoes,4.0,74.07,2024-10-24,NY,Standard
 P13869,C0372,Home & Garden,Novel,3.0,85.14,2024-07-09,CA,Express
 P13871,C0354,Electronics,Jacket,5.0,281.92,2024-02-05,NY,Overnight
@@ -3466,7 +3326,6 @@ P13931,C0041,Home & Garden,Garden Tools,5.0,93.16,2024-07-10,NY,Express
 P13936,C0103,Clothing,Garden Tools,2.0,135.54,2024-11-25,NY,Standard
 P13938,C0229,Books,Garden Tools,5.0,304.21,2024-07-22,NY,Express
 P13942,C0184,Sports,Magazine,4.0,89.68,2024-04-27,CA,Overnight
-P13946,C0081,Sports,Running Shoes,3.0,140.34,2024-09-15,NY,
 P13948,C0085,Electronics,Magazine,2.0,285.97,2024-08-05,CA,Express
 P13949,C0259,Electronics,Hat,4.0,299.25,2024-10-22,CA,Overnight
 P13950,C0073,Sports,Cushion,4.0,331.54,2024-04-24,CA,Overnight
@@ -3503,7 +3362,6 @@ P14065,C0081,Clothing,Monitor,2.0,67.25,2024-02-25,CA,Express
 P14067,C0080,Books,Cushion,5.0,467.44,2024-07-03,NY,Standard
 P14070,C0384,Electronics,Smartphone,5.0,417.44,2024-09-03,CA,Express
 P14086,C0251,Clothing,Dumbbells,3.0,424.54,2024-08-01,NY,Express
-P14087,C0017,Sports,Yoga Mat,5.0,228.86,2024-06-05,CA,
 P14096,C0429,Clothing,Shoes,5.0,116.61,2024-03-29,NY,Express
 P14102,C0228,Books,Tennis Racket,5.0,73.36,2024-05-24,NY,Standard
 P14104,C0412,Electronics,Lamp,2.0,344.54,2024-11-07,NY,Express
@@ -3513,13 +3371,11 @@ P14112,C0393,Sports,Cookbook,2.0,455.74,2024-10-17,CA,Express
 P14120,C0405,Home & Garden,Plant Pot,4.0,246.58,2024-06-28,CA,Express
 P14127,C0138,Sports,Shoes,4.0,377.19,2024-11-29,CA,Standard
 P14135,C0047,Electronics,Textbook,3.0,234.06,2024-12-13,CA,Overnight
-P14140,C0470,Books,Garden Tools,3.0,330.14,2024-04-19,NY,
 P14142,C0178,Books,T-Shirt,3.0,41.26,2024-10-06,NY,Overnight
 P14152,C0083,Books,Laptop,3.0,87.33,2024-09-26,NY,Express
 P14168,C0004,Clothing,Basketball,3.0,290.41,2024-08-08,CA,Standard
 P14179,C0023,Electronics,Running Shoes,3.0,337.47,2024-02-11,NY,Overnight
 P14184,C0381,Home & Garden,Headphones,3.0,279.95,2024-01-08,CA,Standard
-P14188,C0327,Books,Running Shoes,3.0,446.67,2024-09-07,NY,
 P14189,C0393,Home & Garden,Lamp,3.0,157.54,2024-05-29,CA,Express
 P14203,C0353,Clothing,Basketball,4.0,168.16,2024-02-25,CA,Standard
 P14209,C0437,Electronics,T-Shirt,4.0,455.02,2024-11-19,CA,Express
@@ -3562,8 +3418,6 @@ P14342,C0031,Books,Running Shoes,4.0,187.66,2024-05-28,CA,Overnight
 P14345,C0466,Sports,Shoes,2.0,439.22,2024-06-08,NY,Standard
 P14347,C0120,Books,Plant Pot,2.0,388.89,2024-10-24,CA,Express
 P14348,C0025,Electronics,Laptop,5.0,175.5,2024-02-29,CA,Standard
-P14350,C0069,Clothing,Jeans,5.0,254.34,2024-05-06,NY,
-P14353,C0339,Electronics,Lamp,4.0,116.09,2024-11-29,NY,
 P14356,C0425,Clothing,Tablet,5.0,96.07,2024-05-13,NY,Overnight
 P14367,C0110,Electronics,Magazine,3.0,135.99,2024-10-24,CA,Standard
 P14371,C0414,Electronics,Yoga Mat,2.0,249.74,2024-05-23,NY,Standard
@@ -3576,12 +3430,10 @@ P14385,C0386,Sports,Textbook,3.0,318.07,2024-11-24,CA,Overnight
 P14386,C0389,Books,Basketball,2.0,432.5,2024-05-03,CA,Overnight
 P14390,C0284,Clothing,Shoes,4.0,462.53,2024-08-13,CA,Express
 P14395,C0321,Electronics,T-Shirt,3.0,207.97,2024-10-19,CA,Overnight
-P14401,C0079,Home & Garden,Shoes,4.0,398.29,2024-09-02,NY,
 P14402,C0464,Clothing,Garden Tools,3.0,188.13,2024-06-24,CA,Overnight
 P14408,C0063,Home & Garden,Magazine,4.0,430.7,2024-12-07,CA,Express
 P14409,C0325,Electronics,Dumbbells,5.0,227.71,2024-05-13,NY,Express
 P14411,C0212,Books,Cushion,4.0,309.59,2024-11-29,CA,Overnight
-P14412,C0449,Sports,Tennis Racket,2.0,92.66,2024-09-21,CA,
 P14422,C0291,Clothing,Running Shoes,5.0,56.07,2024-06-27,NY,Express
 P14425,C0328,Clothing,Textbook,4.0,174.26,2024-08-31,CA,Express
 P14427,C0198,Home & Garden,Garden Tools,4.0,452.86,2024-01-16,NY,Overnight
@@ -3609,7 +3461,6 @@ P14507,C0167,Sports,Smartphone,5.0,397.35,2024-08-19,CA,Overnight
 P14512,C0048,Clothing,Jacket,2.0,128.12,2024-12-27,NY,Standard
 P14515,C0359,Sports,Monitor,2.0,436.75,2024-03-10,CA,Standard
 P14524,C0115,Clothing,Headphones,2.0,104.97,2024-11-08,NY,Standard
-P14527,C0385,Home & Garden,Magazine,2.0,114.82,2024-01-19,NY,
 P14528,C0446,Clothing,Novel,2.0,74.12,2024-08-30,NY,Express
 P14532,C0356,Home & Garden,Headphones,3.0,163.21,2024-10-17,NY,Standard
 P14534,C0437,Clothing,Jeans,5.0,74.58,2024-11-22,NY,Standard
@@ -3702,7 +3553,6 @@ P14869,C0220,Books,Headphones,4.0,63.29,2024-12-20,CA,Express
 P14871,C0053,Sports,Jeans,4.0,369.12,2024-06-13,NY,Express
 P14885,C0326,Sports,Garden Tools,3.0,44.61,2024-11-16,NY,Express
 P14888,C0157,Books,Magazine,2.0,281.87,2024-04-16,CA,Overnight
-P14889,C0334,Electronics,Magazine,5.0,288.36,2024-01-22,NY,
 P14893,C0357,Clothing,Cushion,3.0,379.45,2024-09-06,CA,Standard
 P14897,C0096,Sports,Magazine,2.0,153.99,2024-07-13,CA,Express
 P14900,C0073,Clothing,Hat,2.0,115.86,2024-06-05,CA,Overnight
